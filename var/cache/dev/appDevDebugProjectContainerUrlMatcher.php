@@ -113,6 +113,15 @@ class appDevDebugProjectContainerUrlMatcher extends Symfony\Bundle\FrameworkBund
 
         }
 
+        // gsb_platform_homepage
+        if ('' === $trimmedPathinfo) {
+            if (substr($pathinfo, -1) !== '/') {
+                return $this->redirect($pathinfo.'/', 'gsb_platform_homepage');
+            }
+
+            return array (  '_controller' => 'GSB\\PlatformBundle\\Controller\\DefaultController::indexAction',  '_route' => 'gsb_platform_homepage',);
+        }
+
         // homepage
         if ('' === $trimmedPathinfo) {
             if (substr($pathinfo, -1) !== '/') {
