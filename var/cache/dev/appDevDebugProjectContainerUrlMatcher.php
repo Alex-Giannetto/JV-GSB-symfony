@@ -122,6 +122,11 @@ class appDevDebugProjectContainerUrlMatcher extends Symfony\Bundle\FrameworkBund
             return array (  '_controller' => 'GSB\\PlatformBundle\\Controller\\DefaultController::indexAction',  '_route' => 'gsb_platform_homepage',);
         }
 
+        // gsb_platform_visites
+        if ('/visistes' === $pathinfo) {
+            return array (  '_controller' => 'GSB\\PlatformBundle\\Controller\\DefaultController::visitesAction',  '_route' => 'gsb_platform_visites',);
+        }
+
         // homepage
         if ('' === $trimmedPathinfo) {
             if (substr($pathinfo, -1) !== '/') {

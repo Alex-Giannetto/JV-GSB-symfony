@@ -1,3 +1,11 @@
 gsb_platform_homepage:
     path:     /
     defaults: { _controller: GSBPlatformBundle:Default:index }
+
+gsb_platform_visites:
+    path:     /visistes
+    defaults: { _controller: GSBPlatformBundle:Default:visites }
+
+gsb_platform_visites:
+    path:     /visistes
+    defaults: { _controller: GSBPlatformBundle:Default:visites }

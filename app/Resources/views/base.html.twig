@@ -1,13 +1,34 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="UTF-8" />
-        <title>GSB - {% block title %}{% endblock %}</title>
-        {% block stylesheets %}{% endblock %}
-        <link rel="icon" type="image/x-icon" href="{{ asset('favicon.ico') }}" />
-    </head>
-    <body>
-        {% block body %}{% endblock %}
-        {% block javascripts %}{% endblock %}
-    </body>
+<head>
+    <meta charset="UTF-8" />
+    <title>GSB {% block title %}{% endblock %}</title>
+    {% block stylesheets %}{% endblock %}
+    <link rel="stylesheet" href="{{ asset('css/main.css') }}">
+    <link rel="icon" type="image/x-icon" href="{{ asset('favicon.ico') }}" />
+</head>
+<body>
+
+<nav>
+    <div class="nav__menu">
+        <a href="#" class="nav__menu__element">Galaxy Swiss Bourdin</a>
+        <a href="#" class="nav__menu__element">Lien</a>
+        <a href="#" class="nav__menu__element">Lien</a>
+        <a href="#" class="nav__menu__element">Lien</a>
+        <a href="#" class="nav__menu__element">Lien</a>
+    </div>
+</nav>
+
+<header>
+    <div class="header__title" id="header__title">
+        {% block nomPage %}{% endblock %}
+    </div>
+</header>
+
+<div class="card">
+    {% block body %}{% endblock %}
+</div>
+
+{% block javascripts %}{% endblock %}
+</body>
 </html>

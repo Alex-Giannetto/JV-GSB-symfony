@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="315ce050-6698-4974-af34-f766fdc0714c" name="Default" comment="création bundle">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/layout.html.twig" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/part/header.html.twig" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/A/0/CCFQTkg3mymNfg8yECLp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/F/L/zptAj4i-RBK0v80oZXZ6" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/J/S/wNV0JH-dMOk8kiCXgV9-" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/L/F/JNJF4RsPnApXN4PS2j4L" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/var/cache/dev/profiler/1f/21/21211f" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/var/cache/dev/twig/87/8791afdd0c21d5817cbc72e68cbbc8ba73ee1910dceb73f1ebf5929e47a9c1c7.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/css/header.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/web/sass/header.sass" />
+    <list default="true" id="315ce050-6698-4974-af34-f766fdc0714c" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/sass/main.sass" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/sass/partials/card.sass" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/web/sass/partials/nav.sass" />
+      <change beforePath="$PROJECT_DIR$/.idea/GSB_Symfony.iml" afterPath="$PROJECT_DIR$/.idea/GSB_Symfony.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/app/Resources/views/base.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
-      <change beforePath="$PROJECT_DIR$/src/GSB/PlatformBundle/GSBPlatformBundle.php" afterPath="$PROJECT_DIR$/src/GSB/PlatformBundle/GSBPlatformBundle.php" />
+      <change beforePath="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/config/routing.yml" afterPath="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/config/routing.yml" />
       <change beforePath="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/Default/index.html.twig" afterPath="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/Default/index.html.twig" />
+      <change beforePath="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/layout.html.twig" afterPath="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/layout.html.twig" />
+      <change beforePath="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/part/header.html.twig" afterPath="" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php.meta" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php.meta" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml.meta" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml.meta" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerCompiler.log" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerCompiler.log" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerUrlGenerator.php" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerUrlGenerator.php" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerUrlGenerator.php.meta" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerUrlGenerator.php.meta" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerUrlMatcher.php" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerUrlMatcher.php" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerUrlMatcher.php.meta" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerUrlMatcher.php.meta" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/profiler/index.csv" afterPath="$PROJECT_DIR$/var/cache/dev/profiler/index.csv" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/51/51120f5c5b9865b61c699a3d78c3f904b38bd0dbe3c14d56a104d5c5a0e122d2.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/51/51120f5c5b9865b61c699a3d78c3f904b38bd0dbe3c14d56a104d5c5a0e122d2.php" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/87/8791afdd0c21d5817cbc72e68cbbc8ba73ee1910dceb73f1ebf5929e47a9c1c7.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/87/8791afdd0c21d5817cbc72e68cbbc8ba73ee1910dceb73f1ebf5929e47a9c1c7.php" />
       <change beforePath="$PROJECT_DIR$/var/logs/dev.log" afterPath="$PROJECT_DIR$/var/logs/dev.log" />
+      <change beforePath="$PROJECT_DIR$/var/logs/prod.log" afterPath="$PROJECT_DIR$/var/logs/prod.log" />
+      <change beforePath="$PROJECT_DIR$/web/css/header.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/sass/header.sass" afterPath="$PROJECT_DIR$/web/sass/partials/header.sass" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,23 +38,79 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="GSBPlatformBundle.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/GSBPlatformBundle.php">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="base.html.twig" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="612">
+              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routing.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+      <file leaf-file-name="header.sass" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/sass/partials/header.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+            <state relative-caret-position="252">
+              <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.sass" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/sass/main.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nav.sass" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/sass/partials/nav.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" column="37" lean-forward="false" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="card.sass" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/sass/partials/card.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="936">
+              <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+              <folding>
+                <marker date="1520897247982" expanded="true" signature="822:939" ph="{...}" />
+                <marker date="1520897247982" expanded="true" signature="1009:1125" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/layout.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -59,70 +119,8 @@
       <file leaf-file-name="index.html.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/Default/index.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layout.html.twig" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/layout.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.html.twig" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/part/header.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.sass" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/sass/header.sass">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-              <folding>
-                <marker date="1520870498180" expanded="true" signature="6:32" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/css/header.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.html.twig" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="9" column="8" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DefaultController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Controller/DefaultController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -135,6 +133,7 @@
       <list>
         <option value="CSS File" />
         <option value="Sass File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -144,13 +143,22 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/GSB/PlatformBundle/GSBPlatformBundle.php" />
-        <option value="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
-        <option value="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/Default/index.html.twig" />
-        <option value="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/layout.html.twig" />
         <option value="$PROJECT_DIR$/web/css/header.css" />
-        <option value="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/part/header.html.twig" />
         <option value="$PROJECT_DIR$/web/sass/header.sass" />
+        <option value="$PROJECT_DIR$/src/GSB/PlatformBundle/GSBPlatformBundle.php" />
+        <option value="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/config/routing.yml" />
+        <option value="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/part/header.html.twig" />
+        <option value="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/layout.html.twig" />
+        <option value="$PROJECT_DIR$/web/sass/main.css" />
+        <option value="$PROJECT_DIR$/web/css/main.css" />
+        <option value="$PROJECT_DIR$/web/sass/partials/header.sass" />
+        <option value="$PROJECT_DIR$/web/sass/partials/card.sass" />
+        <option value="$PROJECT_DIR$/web/sass/main.sass" />
+        <option value="$PROJECT_DIR$/web/js/scroll-min.js" />
+        <option value="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/Default/index.html.twig" />
+        <option value="$PROJECT_DIR$/web/sass/partials/nav.sass" />
+        <option value="$PROJECT_DIR$/web/js/scroll.js" />
+        <option value="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
       </list>
     </option>
   </component>
@@ -160,10 +168,55 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/symfony" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/incenteev/composer-parameter-handler" />
+      <path value="$PROJECT_DIR$/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/sensiolabs/security-checker" />
+      <path value="$PROJECT_DIR$/vendor/fig/link-util" />
+      <path value="$PROJECT_DIR$/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/vendor/sensio/distribution-bundle" />
+      <path value="$PROJECT_DIR$/vendor/sensio/generator-bundle" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-apcu" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/swiftmailer-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/vendor/bundles/FOS" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+    </include_path>
+  </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -180,57 +233,60 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="GSB_Symfony" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_Symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="GSB_SymfonyAlex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GSB_SymfonyAlex" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="GSB_Symfony" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_Symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="GSB_SymfonyAlex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GSB_SymfonyAlex" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="GSB_Symfony" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_Symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="GSB_SymfonyAlex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GSB_SymfonyAlex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="GSB_SymfonyAlex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GSB_SymfonyAlex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="GSB_SymfonyAlex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GSB_SymfonyAlex" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="GSB_Symfony" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_Symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="GSB_SymfonyAlex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GSB_SymfonyAlex" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="GSB" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="GSB_Symfony" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_Symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="GSB_SymfonyAlex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GSB_SymfonyAlex" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="GSB" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="PlatformBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="GSB_Symfony" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_Symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="GSB" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="PlatformBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Controller" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="GSB_Symfony" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_Symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="GSB_SymfonyAlex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GSB_SymfonyAlex" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="GSB" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="PlatformBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="GSB_Symfony" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_Symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="GSB_SymfonyAlex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GSB_SymfonyAlex" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="GSB" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="PlatformBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
@@ -238,435 +294,57 @@
               <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="GSB_Symfony" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_Symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="GSB_SymfonyAlex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GSB_SymfonyAlex" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="GSB" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="PlatformBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="part" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Default" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="GSB_Symfony" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_Symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="GSB_SymfonyAlex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GSB_SymfonyAlex" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="GSB_Symfony" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_Symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="GSB_SymfonyAlex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GSB_SymfonyAlex" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="GSB_Symfony" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_Symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="GSB_SymfonyAlex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GSB_SymfonyAlex" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="sass" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="GSB_SymfonyAlex" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GSB_SymfonyAlex" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sass" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="list.type.of.created.stylesheet" value="Sass" />
   </component>
-  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
-    <UpdatedFiles>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Updated from server" />
-        <option name="myStatusName" value="Changed on server" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="CHANGED_ON_SERVER" />
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated" />
-          <option name="myStatusName" value="Changed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UPDATED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Created" />
-          <option name="myStatusName" value="Created" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.gitignore</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/.gitattributes</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/.github/ISSUE_TEMPLATE.md</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/.gitignore</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/.php_cs.dist</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/.travis.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Changelog.md</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Command/ActivateUserCommand.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Command/ChangePasswordCommand.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Command/CreateUserCommand.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Command/DeactivateUserCommand.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Command/DemoteUserCommand.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Command/PromoteUserCommand.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Command/RoleCommand.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Controller/ChangePasswordController.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Controller/GroupController.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Controller/ProfileController.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Controller/RegistrationController.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Controller/ResettingController.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Controller/SecurityController.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/DependencyInjection/Compiler/CheckForMailerPass.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/DependencyInjection/Compiler/CheckForSessionPass.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/DependencyInjection/Compiler/InjectRememberMeServicesPass.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/DependencyInjection/Compiler/InjectUserCheckerPass.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/DependencyInjection/Compiler/ValidationPass.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/DependencyInjection/Configuration.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/DependencyInjection/FOSUserExtension.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Doctrine/CouchDB/UserListener.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Doctrine/GroupManager.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Doctrine/UserListener.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Doctrine/UserManager.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Event/FilterGroupResponseEvent.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Event/FilterUserResponseEvent.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Event/FormEvent.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Event/GetResponseGroupEvent.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Event/GetResponseNullableUserEvent.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Event/GetResponseUserEvent.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Event/GroupEvent.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Event/UserEvent.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/EventListener/AuthenticationListener.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/EventListener/EmailConfirmationListener.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/EventListener/FlashListener.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/EventListener/LastLoginListener.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/EventListener/ResettingListener.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/FOSUserBundle.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/FOSUserEvents.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Form/DataTransformer/UserToUsernameTransformer.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Form/Factory/FactoryInterface.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Form/Factory/FormFactory.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Form/Type/ChangePasswordFormType.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Form/Type/GroupFormType.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Form/Type/ProfileFormType.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Form/Type/RegistrationFormType.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Form/Type/ResettingFormType.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Form/Type/UsernameFormType.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/LICENSE</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Mailer/Mailer.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Mailer/MailerInterface.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Mailer/NoopMailer.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Mailer/TwigSwiftMailer.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Makefile</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Model/Group.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Model/GroupInterface.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Model/GroupManager.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Model/GroupManagerInterface.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Model/GroupableInterface.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Model/User.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Model/UserInterface.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Model/UserManager.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Model/UserManagerInterface.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/README.md</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/config/change_password.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/config/commands.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/config/doctrine-mapping/Group.couchdb.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/config/doctrine-mapping/Group.mongodb.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/config/doctrine-mapping/Group.orm.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/config/doctrine-mapping/User.couchdb.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/config/doctrine-mapping/User.mongodb.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/config/doctrine-mapping/User.orm.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/config/doctrine.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/config/doctrine_group.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/config/email_confirmation.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/config/flash_notifications.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/config/group.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/config/listeners.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/config/mailer.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/config/profile.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/config/registration.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/config/resetting.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/config/routing/all.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/config/routing/change_password.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/config/routing/group.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/config/routing/profile.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/config/routing/registration.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/config/routing/resetting.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/config/routing/security.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/config/security.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/config/storage-validation/couchdb.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/config/storage-validation/mongodb.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/config/storage-validation/orm.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/config/username_form_type.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/config/util.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/config/validation.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/config/validator.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/doc/adding_invitation_registration.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/doc/canonicalizer.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/doc/command_line_tools.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/doc/configuration_reference.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/doc/controller_events.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/doc/custom_storage_layer.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/doc/doctrine.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/doc/emails.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/doc/form_type.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/doc/groups.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/doc/index.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/doc/logging_by_username_or_email.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/doc/overriding_forms.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/doc/overriding_templates.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/doc/overriding_validation.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/doc/routing.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/doc/user_manager.rst</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.af.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.ar.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.bg.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.bn.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.bn_BD.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.ca.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.cs.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.da.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.de.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.el.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.en.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.eo.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.es.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.et.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.eu.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.fa.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.fi.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.fr.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.gl.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.he.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.hr.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.hu.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.id.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.it.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.ja.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.ky.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.lb.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.lt.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.lv.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.nb.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.nl.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.pl.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.pt.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.pt_BR.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.ro.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.ru.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.sk.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.sl.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.sr_Latn.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.sv.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.th.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.tr.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.uk.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.vi.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/FOSUserBundle.zh_CN.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.ar.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.bg.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.bn.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.bn_BD.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.ca.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.cs.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.da.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.de.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.el.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.en.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.eo.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.es.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.eu.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.fa.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.fi.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.fr.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.he.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.hr.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.hu.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.id.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.it.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.ja.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.ky.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.lt.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.lv.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.nb.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.nl.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.pl.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.pt.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.pt_BR.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.ro.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.ru.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.sk.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.sl.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.sr_Latn.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.sv.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.th.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.tr.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.uk.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.vi.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/translations/validators.zh_CN.yml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/views/ChangePassword/change_password.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/views/ChangePassword/change_password_content.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/views/Group/edit.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/views/Group/edit_content.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/views/Group/list.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/views/Group/list_content.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/views/Group/new.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/views/Group/new_content.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/views/Group/show.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/views/Group/show_content.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/views/Profile/edit.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/views/Profile/edit_content.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/views/Profile/show.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/views/Profile/show_content.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/views/Registration/check_email.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/views/Registration/confirmed.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/views/Registration/email.txt.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/views/Registration/register.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/views/Registration/register_content.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/views/Resetting/check_email.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/views/Resetting/email.txt.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/views/Resetting/request.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/views/Resetting/request_content.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/views/Resetting/reset.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/views/Resetting/reset_content.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/views/Security/login.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/views/Security/login_content.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Resources/views/layout.html.twig</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Security/EmailUserProvider.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Security/LoginManager.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Security/LoginManagerInterface.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Security/UserProvider.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Tests/Command/ActivateUserCommandTest.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Tests/Command/ChangePasswordCommandTest.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Tests/Command/CreateUserCommandTest.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Tests/Command/DeactivateUserCommandTest.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Tests/Command/DemoteUserCommandTest.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Tests/Command/PromoteUserCommandTest.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Tests/DependencyInjection/FOSUserExtensionTest.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Tests/Doctrine/UserManagerTest.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Tests/EventListener/AuthenticationListenerTest.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Tests/EventListener/FlashListenerTest.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Tests/Form/Type/ChangePasswordFormTypeTest.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Tests/Form/Type/GroupFormTypeTest.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Tests/Form/Type/ProfileFormTypeTest.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Tests/Form/Type/RegistrationFormTypeTest.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Tests/Form/Type/ResettingFormTypeTest.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Tests/Form/Type/TypeTestCase.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Tests/Form/Type/ValidatorExtensionTypeTestCase.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Tests/Mailer/MailerTest.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Tests/Mailer/TwigSwiftMailerTest.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Tests/Model/UserManagerTest.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Tests/Model/UserTest.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Tests/Routing/RoutingTest.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Tests/Security/EmailUserProviderTest.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Tests/Security/LoginManagerTest.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Tests/Security/UserProviderTest.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Tests/TestGroup.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Tests/TestUser.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Tests/Util/CanonicalFieldsUpdaterTest.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Tests/Util/CanonicalizerTest.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Tests/Util/PasswordUpdaterTest.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Tests/Util/UserManipulatorTest.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Tests/bootstrap.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Upgrade.md</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Util/CanonicalFieldsUpdater.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Util/Canonicalizer.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Util/CanonicalizerInterface.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Util/PasswordUpdater.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Util/PasswordUpdaterInterface.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Util/TokenGenerator.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Util/TokenGeneratorInterface.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Util/UserManipulator.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/Validator/Initializer.php</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/composer.json</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/vendor/bundles/FOS/UserBundle/phpunit.xml.dist</PATH>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Deleted" />
-          <option name="myStatusName" value="Deleted" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="true" />
-          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Restored" />
-          <option name="myStatusName" value="Will be restored" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="RESTORED" />
-        </FILE-GROUP>
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Modified" />
-        <option name="myStatusName" value="Modified" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MODIFIED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Skipped" />
-        <option name="myStatusName" value="Skipped" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SKIPPED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with conflicts" />
-        <option name="myStatusName" value="Will be merged with conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_CONFLICTS" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with tree conflicts" />
-        <option name="myStatusName" value="Merged with tree conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged with property conflicts" />
-        <option name="myStatusName" value="Will be merged with property conflicts" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Merged" />
-        <option name="myStatusName" value="Will be merged" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="MERGED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Not in repository" />
-        <option name="myStatusName" value="Not in repository" />
-        <option name="mySupportsDeletion" value="true" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="UNKNOWN" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally added" />
-        <option name="myStatusName" value="Locally added" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_ADDED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Locally removed" />
-        <option name="myStatusName" value="Locally removed" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="LOCALLY_REMOVED" />
-      </FILE-GROUP>
-      <FILE-GROUP>
-        <option name="myUpdateName" value="Switched" />
-        <option name="myStatusName" value="Switched" />
-        <option name="mySupportsDeletion" value="false" />
-        <option name="myCanBeAbsent" value="false" />
-        <option name="myId" value="SWITCHED" />
-      </FILE-GROUP>
-    </UpdatedFiles>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/sass/partials" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -693,7 +371,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520864064500</updated>
-      <workItem from="1520864065915" duration="5020000" />
+      <workItem from="1520864065915" duration="6392000" />
+      <workItem from="1520881748864" duration="129000" />
+      <workItem from="1520881967358" duration="125000" />
+      <workItem from="1520885033799" duration="288000" />
+      <workItem from="1520891996094" duration="5477000" />
+      <workItem from="1520937658906" duration="684000" />
     </task>
     <task id="LOCAL-00001" summary="création bundle">
       <created>1520866971051</created>
@@ -702,33 +385,40 @@
       <option name="project" value="LOCAL" />
       <updated>1520866971051</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="création bundle">
+      <created>1520870527284</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1520870527285</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5020000" />
+    <option name="totallyTimeSpent" value="13095000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16640624" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291262" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -748,41 +438,121 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/GSBPlatformBundle.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Controller/DefaultController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="8" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/sass/partials/header.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/sass/main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/sass/partials/nav.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="37" lean-forward="false" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/sass/partials/card.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding>
+            <marker date="1520897247982" expanded="true" signature="822:939" ph="{...}" />
+            <marker date="1520897247982" expanded="true" signature="1009:1125" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/Default/index.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
+        <state relative-caret-position="180">
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/GSBPlatformBundle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/GSBPlatformBundle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/GSBPlatformBundle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/Default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
@@ -790,34 +560,204 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/layout.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        <state relative-caret-position="108">
+          <caret line="6" column="55" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="55" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/part/header.html.twig">
+    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/part/header.html.twig" />
+    <entry file="file://$PROJECT_DIR$/web/sass/main.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="21" />
+        <state relative-caret-position="0">
+          <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/sass/header.sass">
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="162">
+          <caret line="9" column="8" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/sass/partials/header.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/GSBPlatformBundle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/Default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="55" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/part/header.html.twig" />
+    <entry file="file://$PROJECT_DIR$/web/sass/main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="8" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/sass/partials/header.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/header.css" />
+    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/GSBPlatformBundle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/part/header.html.twig" />
+    <entry file="file://$PROJECT_DIR$/web/sass/main.css" />
+    <entry file="file://$PROJECT_DIR$/web/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
           <folding>
-            <marker date="1520870498180" expanded="true" signature="6:32" ph="..." />
+            <marker date="1520897247982" expanded="true" signature="822:939" ph="{...}" />
+            <marker date="1520897247982" expanded="true" signature="1009:1125" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/header.css">
+    <entry file="file://$PROJECT_DIR$/web/sass/partials/card.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+        <state relative-caret-position="54">
+          <caret line="3" column="21" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/sass/main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/scroll-min.js" />
+    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/Default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/sass/partials/nav.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="37" lean-forward="false" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/js/scroll.js" />
+    <entry file="file://$PROJECT_DIR$/web/sass/partials/header.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
       </provider>
