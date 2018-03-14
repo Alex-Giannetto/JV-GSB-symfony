@@ -1,15 +1,24 @@
 $color--primary : #264C87
 
-@import url('https://fonts.googleapis.com/css?family=Lato:100,300,400|Roboto:100,300,400')
+@import url('https://fonts.googleapis.com/css?family=Lato:100,300,400|Roboto:100,300,400,800')
 
 @import "partials/header"
 @import "partials/card"
 @import "partials/nav"
+@import "partials/visites"
 
 *
   padding: 0
   margin: 0
   font-family: Roboto
 
-  body
-    background-color: #fafafa
+body
+  background-color: #fafafa
+
+
+.link--desactivate
+  cursor: not-allowed
+  opacity: .5
+
+.link--active
+  opacity: 1 !important

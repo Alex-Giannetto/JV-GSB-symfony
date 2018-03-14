@@ -1,0 +1,36 @@
+table
+  border-collapse: collapse
+  width: 100%
+
+
+.table--stripped
+
+  thead
+    th
+      text-align: center
+      padding: 10px
+      font-family: sans-serif
+      font-weight: 800
+
+  tbody
+    tr
+      .table__action
+        //opacity: 0
+        display: grid
+        grid-template-columns: 1fr 1fr 1fr
+        transition: all 0.2s
+        a
+          text-decoration: none
+
+      &:nth-child(even)
+        background-color: #F2F2F2
+
+      &:hover
+        background-color: #ECECEC
+
+        .table__action
+          opacity: 1
+
+      td
+        padding: 15px 10px
+        text-align: center

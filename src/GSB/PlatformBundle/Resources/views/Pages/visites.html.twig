@@ -1,0 +1,48 @@
+{% extends "GSBPlatformBundle::layout.html.twig" %}
+
+{% block title %}
+    {{ parent() }}- Index
+{% endblock %}
+
+{% block nomPage %}
+    Les visites
+{% endblock %}
+
+{% block card %}
+    <table id="rapport" class="table--stripped">
+        <thead>
+            <th>Date</th>
+            <th width="25%">Visiteur</th>
+            <th width="25%">Medecin</th>
+            <th></th>
+        </thead>
+        <tbody>
+            <tr>
+                <td>06-09-18</td>
+                <td>Giannedsqdsqtto</td>
+                <td>Cage</td>
+                <td class="table__action"><a href="#">✖</a><a href="#">✎</a><a href="#">❯</a></td>
+            </tr>
+            <tr>
+                <td>02-05-15</td>
+                <td>Giannetto</td>
+                <td>Kiwi</td>
+                <td class="table__action"><a href="#">✖</a><a href="#">✎</a><a href="#">❯</a></td>
+            </tr>
+            <tr>
+                <td>02-05-15</td>
+                <td>dqsdsq</td>
+                <td>Lorem.</td>
+                <td class="table__action"><a href="#">✖</a><a href="#">✎</a><a href="#">❯</a></td>
+            </tr>
+        </tbody>
+    </table>
+{% endblock %}
+
+{% block body %}
+
+
+{% endblock %}
+
+
+

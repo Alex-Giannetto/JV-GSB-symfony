@@ -11,11 +11,14 @@
 
 <nav>
     <div class="nav__menu">
-        <a href="#" class="nav__menu__element">Galaxy Swiss Bourdin</a>
-        <a href="#" class="nav__menu__element">Lien</a>
-        <a href="#" class="nav__menu__element">Lien</a>
-        <a href="#" class="nav__menu__element">Lien</a>
-        <a href="#" class="nav__menu__element">Lien</a>
+        {% set route = app.request.get('_route') %}
+
+        <a href="{{ path('gsb_platform_homepage') }}" class="nav__menu__element nav__menu__element--title link--active">Galaxy Swiss Bourdin</a>
+
+        <a href="{{ path('gsb_platform_visites_all') }}" class="nav__menu__element link--active">Rapport de visite</a>
+        <a href="#" class="nav__menu__element link--desactivate">Médicament</a>
+        <a href="#" class="nav__menu__element link--desactivate">Médecin</a>
+        <a href="#" class="nav__menu__element link--desactivate">Visiteur</a>
     </div>
 </nav>
 
@@ -26,8 +29,9 @@
 </header>
 
 <div class="card">
-    {% block body %}{% endblock %}
+    {% block card %}{% endblock %}
 </div>
+{% block body %}{% endblock %}
 
 {% block javascripts %}{% endblock %}
 </body>
