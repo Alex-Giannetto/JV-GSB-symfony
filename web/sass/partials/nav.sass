@@ -4,6 +4,7 @@ nav
   height: 60px
   background-color: $color--primary
   z-index: 10000
+  transition: all .5s
 
   .nav__menu
     max-width: 80vw
@@ -25,3 +26,9 @@ nav
       &--title
         font-size: 1.3em
         font-weight: 600
+
+.nav--scroll
+  background-color: darken($color--primary, 10%) !important
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.19), 0 10px 10px rgba(0, 0, 0, 0.23)
+
+

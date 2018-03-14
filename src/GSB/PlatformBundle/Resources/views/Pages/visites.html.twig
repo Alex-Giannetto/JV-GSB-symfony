@@ -17,24 +17,15 @@
             <th></th>
         </thead>
         <tbody>
-            <tr>
-                <td>06-09-18</td>
-                <td>Giannedsqdsqtto</td>
-                <td>Cage</td>
-                <td class="table__action"><a href="#">✖</a><a href="#">✎</a><a href="#">❯</a></td>
-            </tr>
-            <tr>
-                <td>02-05-15</td>
-                <td>Giannetto</td>
-                <td>Kiwi</td>
-                <td class="table__action"><a href="#">✖</a><a href="#">✎</a><a href="#">❯</a></td>
-            </tr>
-            <tr>
-                <td>02-05-15</td>
-                <td>dqsdsq</td>
-                <td>Lorem.</td>
-                <td class="table__action"><a href="#">✖</a><a href="#">✎</a><a href="#">❯</a></td>
-            </tr>
+            {% for rapport in rapports %}
+
+                <tr>
+                    <td>{{ rapport.date |date('Y-m-d') }}</td>
+                    <td>{{ rapport.visiteur.nom }}</td>
+                    <td>{{ rapport.medecin.nom }}</td>
+                    <td style="padding: 5px 0 10px 0"><a class="btn btn--view" href="{{ path("gsb_platform_visites_one",  { 'id': rapport.id }) }}">❯</a></td>
+                </tr>
+            {% endfor %}
         </tbody>
     </table>
 {% endblock %}

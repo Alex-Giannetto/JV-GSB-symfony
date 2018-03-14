@@ -4,15 +4,13 @@
     <meta charset="UTF-8" />
     <title>GSB {% block title %}{% endblock %}</title>
     {% block stylesheets %}{% endblock %}
-    <link rel="stylesheet" href="{{ asset('css/main.css') }}">
+    <link rel="stylesheet" href="{{ asset('css/main-min.css') }}">
     <link rel="icon" type="image/x-icon" href="{{ asset('favicon.ico') }}" />
 </head>
 <body>
 
-<nav>
+<nav id="nav">
     <div class="nav__menu">
-        {% set route = app.request.get('_route') %}
-
         <a href="{{ path('gsb_platform_homepage') }}" class="nav__menu__element nav__menu__element--title link--active">Galaxy Swiss Bourdin</a>
 
         <a href="{{ path('gsb_platform_visites_all') }}" class="nav__menu__element link--active">Rapport de visite</a>
@@ -34,5 +32,6 @@
 {% block body %}{% endblock %}
 
 {% block javascripts %}{% endblock %}
+<script src="{{ asset('js/scroll.js') }}"></script>
 </body>
 </html>

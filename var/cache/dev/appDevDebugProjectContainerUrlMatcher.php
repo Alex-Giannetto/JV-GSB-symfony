@@ -122,15 +122,15 @@ class appDevDebugProjectContainerUrlMatcher extends Symfony\Bundle\FrameworkBund
             return array (  '_controller' => 'GSB\\PlatformBundle\\Controller\\DefaultController::indexAction',  '_route' => 'gsb_platform_homepage',);
         }
 
-        if (0 === strpos($pathinfo, '/rapportVisite/visistes')) {
+        if (0 === strpos($pathinfo, '/rapportVisite/visite')) {
             // gsb_platform_visites_all
-            if ('/rapportVisite/visistes' === $pathinfo) {
-                return array (  '_controller' => 'GSB\\PlatformBundle\\Controller\\DefaultController::visitesAction',  '_route' => 'gsb_platform_visites_all',);
+            if ('/rapportVisite/visites' === $pathinfo) {
+                return array (  '_controller' => 'GSB\\PlatformBundle\\Controller\\DefaultController::allVisitesAction',  '_route' => 'gsb_platform_visites_all',);
             }
 
             // gsb_platform_visites_one
-            if ('/rapportVisite/visistes' === $pathinfo) {
-                return array (  '_controller' => 'GSB\\PlatformBundle\\Controller\\DefaultController::visiteAction',  '_route' => 'gsb_platform_visites_one',);
+            if (preg_match('#^/rapportVisite/visite/(?P<id>[^/]++)$#s', $pathinfo, $matches)) {
+                return $this->mergeDefaults(array_replace($matches, array('_route' => 'gsb_platform_visites_one')), array (  '_controller' => 'GSB\\PlatformBundle\\Controller\\DefaultController::selectedVisiteAction',));
             }
 
         }

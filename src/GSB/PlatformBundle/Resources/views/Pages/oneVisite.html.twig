@@ -1,0 +1,62 @@
+{% extends "GSBPlatformBundle::layout.html.twig" %}
+
+{% block title %}
+    {{ parent() }}- Index
+{% endblock %}
+
+{% block nomPage %}
+    Visite du {{ rapport.date | date('Y-m-d') }}
+{% endblock %}
+
+{% block card %}
+
+    <div class="grid3 grid--btn ">
+        <a href="#" class="btn btn--view">Retour à la liste</a>
+        <a href="#" class="btn btn--modifier">Modifier</a>
+        <a href="#" class="btn btn--delete">Supprimer</a>
+    </div>
+
+    <table class="table table--visite">
+        <thead>
+        <th width="25%" align="right"></th>
+        <th width="25%"></th>
+        </thead>
+        <tr>
+            <td align="right"><span class="table--visite__libelle">Visiteur :</span></td>
+            <td>{{ rapport.visiteur.nom }} {{ rapport.visiteur.prenom }}</td>
+        </tr>
+        <tr>
+            <td align="right"><span class="table--visite__libelle">Medecin :</span></td>
+            <td>{{ rapport.medecin.nom }} {{ rapport.medecin.prenom }} {% if(rapport.medecinRemplacant != null) %} - {{ rapport.medecin.nom }} {{ rapport.medecin.prenom }} {% endif %}</td>
+        </tr>
+        <tr>
+            <td align="right"><span class="table--visite__libelle">Date :</span></td>
+            <td>{{ rapport.date | date('Y-m-d') }}</td>
+        </tr>
+        <tr>
+            <td align="right"><span class="table--visite__libelle">Motif :</span></td>
+            <td>{{ rapport.motif }}</td>
+        </tr>
+        <tr>
+            <td align="right"><span class="table--visite__libelle">Bilan :</span></td>
+            <td>{{ rapport.bilan }}</td>
+        </tr>
+        <tr>
+            <td align="right"><span class="table--visite__libelle">Documentation : </span></td>
+            <td>{{ (rapport.documentation == 1)? 'oui' : 'non' }}</td>
+        </tr>
+        <tr>
+            <td align="right"><span class="table--visite__libelle">Medicament{{ (rapport.medicament2 != null) ? 's' }}  :</span></td>
+            <td>
+                <ul>
+                    <li>{{ rapport.medicament1.libelle }}</li>
+                    {% if(rapport.medicament2) != null %}
+                        <li>{{ rapport.medicament2.libelle }}</li>
+                    {% endif %}
+                </ul>
+            </td>
+        </tr>
+    </table>
+
+
+{% endblock %}

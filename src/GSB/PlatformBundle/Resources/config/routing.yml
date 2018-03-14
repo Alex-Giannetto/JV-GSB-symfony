@@ -3,12 +3,13 @@ gsb_platform_homepage:
     defaults: { _controller: GSBPlatformBundle:Default:index }
 
 gsb_platform_visites_all:
-    path:     /rapportVisite/visistes
-    defaults: { _controller: GSBPlatformBundle:Default:visites }
+    path:     /rapportVisite/visites
+    defaults: { _controller: GSBPlatformBundle:Default:allVisites }
 
 gsb_platform_visites_one:
-    path:     /rapportVisite/visistes
-    defaults: { _controller: GSBPlatformBundle:Default:visite }
+    path:     /rapportVisite/visite/{id}
+    defaults: { _controller: GSBPlatformBundle:Default:selectedVisite }
+#    ToDo : requirements : id -> nombre
 
 gsb_platform_visites_add:
     path:     /rapportVisite/add

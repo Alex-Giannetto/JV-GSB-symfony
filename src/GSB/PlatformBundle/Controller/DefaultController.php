@@ -16,11 +16,29 @@ class DefaultController extends Controller
         ));
     }
 
-    public function visitesAction()
+    public function allVisitesAction()
     {
 
-        return $this->render('GSBPlatformBundle:Pages:visites.html.twig', array(
+        $em = $this->getDoctrine()->getManager();
 
+        // On récupère l'annonce $id
+        $rapports = $em->getRepository('GSBPlatformBundle:RapportVisite')->findAll();
+
+        return $this->render('GSBPlatformBundle:Pages:visites.html.twig', array(
+            'rapports' => $rapports
+        ));
+    }
+
+    public function selectedVisiteAction($id)
+    {
+
+        $em = $this->getDoctrine()->getManager();
+
+        // On récupère l'annonce $id
+        $rapport = $em->getRepository('GSBPlatformBundle:RapportVisite')->find($id);
+
+        return $this->render('GSBPlatformBundle:Pages:oneVisite.html.twig', array(
+            'rapport' => $rapport
         ));
     }
 }
