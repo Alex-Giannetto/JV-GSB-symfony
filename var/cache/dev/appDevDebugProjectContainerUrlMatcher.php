@@ -137,7 +137,7 @@ class appDevDebugProjectContainerUrlMatcher extends Symfony\Bundle\FrameworkBund
 
         // gsb_platform_visites_add
         if ('/rapportVisite/add' === $pathinfo) {
-            return array (  '_controller' => 'GSB\\PlatformBundle\\Controller\\DefaultController::indexAction',  '_route' => 'gsb_platform_visites_add',);
+            return array (  '_controller' => 'GSB\\PlatformBundle\\Controller\\DefaultController::addVisiteAction',  '_route' => 'gsb_platform_visites_add',);
         }
 
         // homepage

@@ -9,6 +9,9 @@
 {% endblock %}
 
 {% block card %}
+    <a href='{{ path("gsb_platform_visites_add")}}' class="btn btn--modifier">Ajouter</a>
+    <br>
+    <br>
     <table id="rapport" class="table--stripped">
         <thead>
             <th>Date</th>
@@ -18,7 +21,6 @@
         </thead>
         <tbody>
             {% for rapport in rapports %}
-
                 <tr>
                     <td>{{ rapport.date |date('Y-m-d') }}</td>
                     <td>{{ rapport.visiteur.nom }}</td>

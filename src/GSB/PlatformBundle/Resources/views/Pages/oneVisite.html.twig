@@ -56,7 +56,16 @@
                 </ul>
             </td>
         </tr>
+        <tr>
+            <td align="right"><span class="table--visite__libelle">Echantillons  :</span></td>
+            <td>
+                <ul>
+                    {% for echantillon in rapport.echantillons %}
+                        <li>{{ echantillon.medicament.libelle }}</li>
+                    {% endfor %}
+                </ul>
+            </td>
+        </tr>
     </table>
-
 
 {% endblock %}
