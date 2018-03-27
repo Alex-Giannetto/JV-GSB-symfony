@@ -16,7 +16,7 @@ class EchantillonType extends AbstractType
     {
         $builder
             ->add('quantite')
-            ->add('medicament1', EntityType::class, array(
+            ->add('medicament', EntityType::class, array(
                 'class'        => 'GSBPlatformBundle:Medicament',
                 'choice_label' => 'libelle',
                 'multiple'     => false,

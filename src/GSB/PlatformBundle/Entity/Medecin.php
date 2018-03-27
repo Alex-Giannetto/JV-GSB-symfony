@@ -94,7 +94,7 @@ class Medecin
     }
 
     public function getNomPrenom(){
-        return $this->nom . " " . $this->prenom;
+        return strtoupper($this->nom) . " " . $this->prenom;
     }
 }
 

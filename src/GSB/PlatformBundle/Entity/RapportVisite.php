@@ -24,7 +24,7 @@ class RapportVisite
 
     /**
      * @ORM\ManyToOne(targetEntity="GSB\PlatformBundle\Entity\Visiteur")
-     * @ORM\JoinColumn(nullable=false)
+     * @ORM\JoinColumn(nullable=true)
      */
     private $visiteur;
 
@@ -86,8 +86,7 @@ class RapportVisite
      */
     private $echantillons;
 
-    public function __construct()
-    {
+    public function __construct() {
         $this->date         = new \Datetime();
         $this->echantillons = new ArrayCollection();
     }

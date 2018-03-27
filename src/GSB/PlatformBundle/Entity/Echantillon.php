@@ -40,7 +40,6 @@ class Echantillon
      */
     private $quantite;
 
-
     /**
      * Get id
      *
