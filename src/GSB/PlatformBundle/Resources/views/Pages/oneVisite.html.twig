@@ -13,7 +13,7 @@
     <div class="grid3 grid--btn ">
         <a href="{{ path('gsb_platform_visites_all') }}" class="btn btn--view">Retour à la liste</a>
         <a href="#" class="btn btn--modifier">Modifier</a>
-        <a href="#" class="btn btn--delete">Supprimer</a>
+        <a href="{{ path('gsb_platform_visites_delete',  { 'id': rapport.id }) }}" class="btn btn--delete">Supprimer</a>
     </div>
 
     <table class="table table--visite">

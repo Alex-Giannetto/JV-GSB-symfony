@@ -14,3 +14,7 @@ gsb_platform_visites_one:
 gsb_platform_visites_add:
     path:     /rapportVisite/add
     defaults: { _controller: GSBPlatformBundle:Default:addVisite }
+
+gsb_platform_visites_delete:
+    path:     /rapportVisite/delete/{id}
+    defaults: { _controller: GSBPlatformBundle:Default:deleteVisite }

@@ -82,7 +82,7 @@ class RapportVisite
 
 
     /**
-     * @ORM\OneToMany(targetEntity="GSB\PlatformBundle\Entity\Echantillon", mappedBy="rapportVisite", cascade={"persist"})
+     * @ORM\OneToMany(targetEntity="GSB\PlatformBundle\Entity\Echantillon", mappedBy="rapportVisite", cascade={"all"})
      */
     private $echantillons;
 

@@ -2,21 +2,18 @@
 
 {% form_theme form _self %}
 
-{#{% block collection_widget %}#}
-    {#<div id="gsb_platformbundle_rapportvisite_echantillons" data-prototype="<div class= 'echantillon ' id= 'gsb_platformbundle_rapportvisite_echantillons_0 '><select class= 'form-control form-control--echantillon ' id= 'gsb_platformbundle_rapportvisite_echantillons_0_medicament1 ' name= 'gsb_platformbundle_rapportvisite[echantillons][0][medicament1] '></select><input class= 'form-control form-control--echantillon ' type= 'number ' id= 'gsb_platformbundle_rapportvisite_echantillons_0_quantite ' name= 'gsb_platformbundle_rapportvisite[echantillons][0][quantite] ' required= 'required ' min= '1 ' placeholder= 'Qte '></div>">#}
-        {#<div class="echantillon" id="gsb_platformbundle_rapportvisite_echantillons_0">#}
-
-            {#<select class="form-control" id="gsb_platformbundle_rapportvisite_echantillons_0_medicament1" name="gsb_platformbundle_rapportvisite[echantillons][0][medicament1]">#}
-
-            {#</select>#}
-            {#<input class="form-control form-control--echantillon" type="number" id="gsb_platformbundle_rapportvisite_echantillons_0_quantite" name="gsb_platformbundle_rapportvisite[echantillons][0][quantite]" required="required" min="1" placeholder="Qte">#}
-        {#</div>#}
-    {#</div>#}
-{#{% endblock collection_widget %}#}
+{% block widget_collection %}
+    <div id="gsb_platformbundle_rapportvisite_echantillons" data-prototype="<div class= 'echantillon ' id= 'gsb_platformbundle_rapportvisite_echantillons_0 '><select class= 'form-control form-control--echantillon ' id= 'gsb_platformbundle_rapportvisite_echantillons_0_medicament1 ' name= 'gsb_platformbundle_rapportvisite[echantillons][0][medicament1] '></select><input class= 'form-control form-control--echantillon ' type= 'number ' id= 'gsb_platformbundle_rapportvisite_echantillons_0_quantite ' name= 'gsb_platformbundle_rapportvisite[echantillons][0][quantite] ' required= 'required ' min= '1 ' placeholder= 'Qte '></div>">
+        <div class="echantillon" id="gsb_platformbundle_rapportvisite_echantillons_0">
 
 
+            <select class="form-control" id="gsb_platformbundle_rapportvisite_echantillons_0_medicament1" name="gsb_platformbundle_rapportvisite[echantillons][0][medicament1]">
 
-
+            </select>
+            <input class="form-control form-control--echantillon" type="number" id="gsb_platformbundle_rapportvisite_echantillons_0_quantite" name="gsb_platformbundle_rapportvisite[echantillons][0][quantite]" required="required" min="1" placeholder="Qte">
+        </div>
+    </div>
+{% endblock%}
 
 {% block title %}
     {{ parent() }}- Index
@@ -78,7 +75,7 @@
 
 
 
-        {{ form_widget(form.echantillons) }}
+        {{ form_row(form.echantillons) }}
         <a href="#" id="add_category" class="btn btn--view">+</a>
 
 

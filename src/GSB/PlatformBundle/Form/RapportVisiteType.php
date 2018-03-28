@@ -24,7 +24,7 @@ class RapportVisiteType extends AbstractType
             ->add('date', DateType::class)
             ->add('motif', TextType::class)
             ->add('bilan', TextareaType::class)
-            ->add('documentation', CheckboxType::class)
+            ->add('documentation', CheckboxType::class, array('required' => false))
             ->add('medecin', EntityType::class, array(
                 'class'        => 'GSBPlatformBundle:Medecin',
                 'choice_label' => 'nomPrenom',
@@ -34,8 +34,7 @@ class RapportVisiteType extends AbstractType
                 'class'        => 'GSBPlatformBundle:Medecin',
                 'choice_label' => 'nomPrenom',
                 'multiple'     => false,
-                'required'      => false,
-
+                'required'     => false,
             ))
             ->add('medicament1', EntityType::class, array(
                 'class'        => 'GSBPlatformBundle:Medicament',
@@ -46,14 +45,14 @@ class RapportVisiteType extends AbstractType
                 'class'        => 'GSBPlatformBundle:Medicament',
                 'choice_label' => 'libelle',
                 'multiple'     => false,
-                'required'      => false,
+                'required'     => false,
             ))
             ->add('echantillons', CollectionType::class, array(
                 'entry_type'   => EchantillonType::class,
                 'allow_add'    => true,
-                'allow_delete' => true
+                'allow_delete' => true,
             ))
-            ->add('save',      SubmitType::class)
+            ->add('save', SubmitType::class)
         ;
     }
 
