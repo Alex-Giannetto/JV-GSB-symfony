@@ -93,5 +93,10 @@ class Medicament
     {
         return $this->libelle;
     }
+
+
+    public function getlabel(){
+        return $this->libelle;
+    }
 }
 

@@ -30,15 +30,11 @@ class RapportVisite
 
     /**
      * @ORM\ManyToOne(targetEntity="GSB\PlatformBundle\Entity\Medecin")
-     * @ORM\JoinColumn(nullable=false)
+     * @ORM\JoinColumn(nullable=false, name="medecin")
      */
     private $medecin;
 
-    /**
-     * @ORM\ManyToOne(targetEntity="GSB\PlatformBundle\Entity\Medecin")
-     * @ORM\JoinColumn(nullable=true)
-     */
-    private $medecinRemplacant;
+
 
     /**
      * @var \DateTime
@@ -48,9 +44,14 @@ class RapportVisite
     private $date;
 
     /**
-     * @var string
-     *
-     * @ORM\Column(name="motif", type="string", length=255)
+     * @ORM\ManyToOne(targetEntity="GSB\PlatformBundle\Entity\Medecin")
+     * @ORM\JoinColumn(name="medecinRemp", nullable=true)
+     */
+    private $medecinRemplacant;
+
+    /**
+     * @ORM\ManyToOne(targetEntity="GSB\PlatformBundle\Entity\Motif")
+     * @ORM\JoinColumn(nullable=false)
      */
     private $motif;
 
@@ -81,14 +82,9 @@ class RapportVisite
     private $documentation;
 
 
-    /**
-     * @ORM\OneToMany(targetEntity="GSB\PlatformBundle\Entity\Echantillon", mappedBy="rapportVisite", cascade={"all"})
-     */
-    private $echantillons;
-
     public function __construct() {
         $this->date         = new \Datetime();
-        $this->echantillons = new ArrayCollection();
+//        $this->echantillons = new ArrayCollection();
     }
 
     /**

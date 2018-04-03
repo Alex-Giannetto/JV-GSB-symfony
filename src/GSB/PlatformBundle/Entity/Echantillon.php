@@ -33,12 +33,12 @@ class Echantillon
      */
     private $medicament;
 
-    /**
-     * @var string
-     *
-     * @ORM\Column(name="quantite", type="string", length=255)
-     */
-    private $quantite;
+//    /**
+//     * @var string
+//     *
+//     * @ORM\Column(name="quantite", type="string", length=255)
+//     */
+//    private $quantite;
 
     /**
      * Get id
@@ -142,5 +142,10 @@ class Echantillon
     public function getMedicament()
     {
         return $this->medicament;
+    }
+
+
+    public function getLabel(){
+        return "dsq";
     }
 }

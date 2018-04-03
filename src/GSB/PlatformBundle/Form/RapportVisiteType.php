@@ -22,7 +22,11 @@ class RapportVisiteType extends AbstractType
     {
         $builder
             ->add('date', DateType::class)
-            ->add('motif', TextType::class)
+            ->add('motif', EntityType::class, array(
+                'class'        => 'GSBPlatformBundle:Motif',
+                'choice_label' => 'libelle',
+                'multiple'     => false,
+            ))
             ->add('bilan', TextareaType::class)
             ->add('documentation', CheckboxType::class, array('required' => false))
             ->add('medecin', EntityType::class, array(
@@ -46,11 +50,6 @@ class RapportVisiteType extends AbstractType
                 'choice_label' => 'libelle',
                 'multiple'     => false,
                 'required'     => false,
-            ))
-            ->add('echantillons', CollectionType::class, array(
-                'entry_type'   => EchantillonType::class,
-                'allow_add'    => true,
-                'allow_delete' => true,
             ))
             ->add('save', SubmitType::class)
         ;

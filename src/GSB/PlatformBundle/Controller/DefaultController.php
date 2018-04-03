@@ -62,32 +62,31 @@ class DefaultController extends Controller
         }
 
 
-//        $rapport = new RapportVisite();
-//        $medecin = new Medecin();
-//        $medecin->setNom("dkslq");
-//        $medecin->setPrenom("dsqd");
-//
-//        $medicament = new Medicament();
-//        $medicament->setDepotLegal("dssdsdsds");
-//        $medicament->setLibelle("dsqdsqdsqdq");
-//
-//        $rapport->setMedecin($medecin);
-//        $rapport->setMedicament1($medicament);
-//        $rapport->setMotif("dsdq");
-//        $rapport->setBilan("sdqndnqsds");
-//
-//        $echantillon = new Echantillon();
-//        $echantillon->setMedicament($medicament);
-//        $echantillon->setQuantite(1);
-//        $echantillon->setRapportVisite($rapport);
-//        $rapport->addEchantillon($echantillon);
-//
-//        $em = $this->getDoctrine()->getManager();
-//        $em->persist($rapport);
-//        $em->persist($medecin);
-//        $em->persist($medicament);
-//        $em->flush();
 
+
+        return $this->render('GSBPlatformBundle:Pages:addVisite.html.twig', array(
+            'form' => $form->createView(),
+        ));
+    }
+
+    public function editVisiteAction($id, Request $request){
+        $rapportVisite = $this->getDoctrine()
+            ->getManager()
+            ->getRepository('GSBPlatformBundle:RapportVisite')
+            ->find($id);
+
+        $form = $this->get('form.factory')->create(RapportVisiteType::class, $rapportVisite);
+
+        if ($request->isMethod('POST') && $form->handleRequest($request)->isValid()) {
+            $em = $this->getDoctrine()->getManager();
+
+            $em->persist($rapportVisite);
+            $em->flush();
+
+            $request->getSession()->getFlashBag()->add('notice', 'Raport bien modifier.');
+
+            return $this->redirectToRoute('gsb_platform_visites_one', array('id' => $rapportVisite->getId()));
+        }
 
         return $this->render('GSBPlatformBundle:Pages:addVisite.html.twig', array(
             'form' => $form->createView(),

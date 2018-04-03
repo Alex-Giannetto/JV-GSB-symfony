@@ -12,7 +12,7 @@
 
     <div class="grid3 grid--btn ">
         <a href="{{ path('gsb_platform_visites_all') }}" class="btn btn--view">Retour à la liste</a>
-        <a href="#" class="btn btn--modifier">Modifier</a>
+        <a href="{{ path('gsb_platform_visites_edit', { 'id': rapport.id })  }}" class="btn btn--modifier">Modifier</a>
         <a href="{{ path('gsb_platform_visites_delete',  { 'id': rapport.id }) }}" class="btn btn--delete">Supprimer</a>
     </div>
 
@@ -27,7 +27,7 @@
         </tr>
         <tr>
             <td align="right"><span class="table--visite__libelle">Medecin :</span></td>
-            <td>{{ rapport.medecin.nom }} {{ rapport.medecin.prenom }} {% if(rapport.medecinRemplacant != null) %} - {{ rapport.medecin.nom }} {{ rapport.medecin.prenom }} {% endif %}</td>
+            <td>{{ rapport.medecin.nom }} {{ rapport.medecin.prenom }} {% if(rapport.medecinRemplacant != null) %} - {{ rapport.medecinRemplacant.nom }} {{ rapport.medecinRemplacant.prenom }} {% endif %}</td>
         </tr>
         <tr>
             <td align="right"><span class="table--visite__libelle">Date :</span></td>
@@ -35,7 +35,7 @@
         </tr>
         <tr>
             <td align="right"><span class="table--visite__libelle">Motif :</span></td>
-            <td>{{ rapport.motif }}</td>
+            <td>{{ rapport.motif.libelle }}</td>
         </tr>
         <tr>
             <td align="right"><span class="table--visite__libelle">Bilan :</span></td>
@@ -56,16 +56,7 @@
                 </ul>
             </td>
         </tr>
-        <tr>
-            <td align="right"><span class="table--visite__libelle">Echantillons  :</span></td>
-            <td>
-                <ul>
-                    {% for echantillon in rapport.echantillons %}
-                        <li>{{ echantillon.medicament.libelle }}</li>
-                    {% endfor %}
-                </ul>
-            </td>
-        </tr>
+
     </table>
 
 {% endblock %}
