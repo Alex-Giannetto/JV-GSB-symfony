@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="315ce050-6698-4974-af34-f766fdc0714c" name="Default" comment="Affichage    : 100%&#10;Suppression  : 100%&#10;Ajout        : 100%&#10;Modification : 100%">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GSB/PlatformBundle/Entity/Motif.php" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/GSB/PlatformBundle/Controller/DefaultController.php" afterPath="$PROJECT_DIR$/src/GSB/PlatformBundle/Controller/DefaultController.php" />
-      <change beforePath="$PROJECT_DIR$/src/GSB/PlatformBundle/Entity/Echantillon.php" afterPath="$PROJECT_DIR$/src/GSB/PlatformBundle/Entity/Echantillon.php" />
-      <change beforePath="$PROJECT_DIR$/src/GSB/PlatformBundle/Entity/Medicament.php" afterPath="$PROJECT_DIR$/src/GSB/PlatformBundle/Entity/Medicament.php" />
-      <change beforePath="$PROJECT_DIR$/src/GSB/PlatformBundle/Entity/RapportVisite.php" afterPath="$PROJECT_DIR$/src/GSB/PlatformBundle/Entity/RapportVisite.php" />
-      <change beforePath="$PROJECT_DIR$/src/GSB/PlatformBundle/Form/RapportVisiteType.php" afterPath="$PROJECT_DIR$/src/GSB/PlatformBundle/Form/RapportVisiteType.php" />
-      <change beforePath="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/config/routing.yml" afterPath="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/config/routing.yml" />
-      <change beforePath="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/Pages/addVisite.html.twig" afterPath="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/Pages/addVisite.html.twig" />
-      <change beforePath="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/Pages/oneVisite.html.twig" afterPath="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/Pages/oneVisite.html.twig" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerUrlGenerator.php" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerUrlGenerator.php" />
@@ -103,8 +97,6 @@
       <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/bb/bbe75923e7fa9503e0fb8ccfebb2b75e0c7554f32d195374d834a6ef21d79bf9.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/bb/bbe75923e7fa9503e0fb8ccfebb2b75e0c7554f32d195374d834a6ef21d79bf9.php" />
       <change beforePath="$PROJECT_DIR$/var/logs/dev.log" afterPath="$PROJECT_DIR$/var/logs/dev.log" />
       <change beforePath="$PROJECT_DIR$/var/logs/prod.log" afterPath="$PROJECT_DIR$/var/logs/prod.log" />
-      <change beforePath="$PROJECT_DIR$/web/css/main.css" afterPath="$PROJECT_DIR$/web/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/web/sass/partials/inputs.sass" afterPath="$PROJECT_DIR$/web/sass/partials/inputs.sass" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -141,7 +133,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Echantillon.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Echantillon.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Entity/Echantillon.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="396">
@@ -151,11 +143,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nav.sass" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/sass/partials/nav.sass">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+            <state relative-caret-position="126">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -338,7 +330,6 @@
         <option value="$PROJECT_DIR$/src/GSB/PlatformBundle/Repository/RapportVisiteRepository.php" />
         <option value="$PROJECT_DIR$/app/config/config.yml" />
         <option value="$PROJECT_DIR$/web/sass/main.sass" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/web/sass/partials/header.sass" />
         <option value="$PROJECT_DIR$/web/sass/partials/visites.sass" />
         <option value="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
@@ -356,6 +347,7 @@
         <option value="$PROJECT_DIR$/web/sass/partials/inputs.sass" />
         <option value="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/Pages/addVisite.html.twig" />
         <option value="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/Pages/oneVisite.html.twig" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -445,30 +437,6 @@
             <path>
               <item name="GSB_SymfonyAlex" type="b2602c69:ProjectViewProjectNode" />
               <item name="GSB_SymfonyAlex" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="GSB_SymfonyAlex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_SymfonyAlex" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="GSB_SymfonyAlex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_SymfonyAlex" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="GSB_SymfonyAlex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_SymfonyAlex" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="GSB_SymfonyAlex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_SymfonyAlex" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -483,14 +451,6 @@
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="GSB" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="PlatformBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="GSB_SymfonyAlex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_SymfonyAlex" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="GSB" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="PlatformBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Controller" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="GSB_SymfonyAlex" type="b2602c69:ProjectViewProjectNode" />
@@ -499,78 +459,6 @@
               <item name="GSB" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="PlatformBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Entity" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="GSB_SymfonyAlex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_SymfonyAlex" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="GSB" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="PlatformBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Form" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="GSB_SymfonyAlex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_SymfonyAlex" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="GSB" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="PlatformBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="GSB_SymfonyAlex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_SymfonyAlex" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="GSB" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="PlatformBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="GSB_SymfonyAlex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_SymfonyAlex" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="GSB" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="PlatformBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="GSB_SymfonyAlex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_SymfonyAlex" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="GSB" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="PlatformBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Default" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="GSB_SymfonyAlex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_SymfonyAlex" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="GSB" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="PlatformBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Pages" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="GSB_SymfonyAlex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_SymfonyAlex" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="GSB_SymfonyAlex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_SymfonyAlex" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="sass" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="GSB_SymfonyAlex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_SymfonyAlex" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="sass" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -646,7 +534,7 @@
       <workItem from="1522270131842" duration="211000" />
       <workItem from="1522678065310" duration="17000" />
       <workItem from="1522737982396" duration="3932000" />
-      <workItem from="1522768695198" duration="6200000" />
+      <workItem from="1522768695198" duration="6282000" />
     </task>
     <task id="LOCAL-00001" summary="création bundle">
       <created>1520866971051</created>
@@ -711,11 +599,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522270281089</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Affichage    : 100%&#10;Suppression  : 100%&#10;Ajout        : 100%&#10;Modification : 100%">
+      <created>1522778204603</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1522778204603</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101833000" />
+    <option name="totallyTimeSpent" value="101915000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -731,7 +626,7 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291262" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3291262" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291262" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291262" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -882,13 +777,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
           <caret line="38" column="38" lean-forward="false" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1219,6 +1107,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
