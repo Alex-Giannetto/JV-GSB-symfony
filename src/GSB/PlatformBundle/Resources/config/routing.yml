@@ -9,7 +9,7 @@ gsb_platform_visites_all:
 gsb_platform_visites_one:
     path:     /rapportVisite/visite/{id}
     defaults: { _controller: GSBPlatformBundle:Default:selectedVisite }
-#    ToDo : requirements : id -> nombre
+
 
 gsb_platform_visites_add:
     path:     /rapportVisite/add
@@ -18,10 +18,10 @@ gsb_platform_visites_add:
 gsb_platform_visites_edit:
     path:     /rapportVisite/edit/{id}
     defaults: { _controller: GSBPlatformBundle:Default:editVisite }
-    #    ToDo : requirements : id -> nombre
-
 
 gsb_platform_visites_delete:
     path:     /rapportVisite/delete/{id}
     defaults: { _controller: GSBPlatformBundle:Default:deleteVisite }
-    #    ToDo : requirements : id -> nombre
+
+
+  #    ToDo : requirements : id -> nombre

@@ -58,7 +58,7 @@ class DefaultController extends Controller
 
             $request->getSession()->getFlashBag()->add('notice', 'Raport bien enregistré.');
 
-            return $this->redirectToRoute('gsb_platform_visites_all', array());
+            return $this->redirectToRoute('gsb_platform_visites_all');
         }
 
 
@@ -66,6 +66,8 @@ class DefaultController extends Controller
 
         return $this->render('GSBPlatformBundle:Pages:addVisite.html.twig', array(
             'form' => $form->createView(),
+            'name' => "Ajouter une visite"
+
         ));
     }
 
@@ -85,11 +87,14 @@ class DefaultController extends Controller
 
             $request->getSession()->getFlashBag()->add('notice', 'Raport bien modifier.');
 
-            return $this->redirectToRoute('gsb_platform_visites_one', array('id' => $rapportVisite->getId()));
+            return $this->redirectToRoute('gsb_platform_visites_one', array(
+                'id' => $rapportVisite->getId()
+            ));
         }
 
         return $this->render('GSBPlatformBundle:Pages:addVisite.html.twig', array(
             'form' => $form->createView(),
+            'name' => "Modifier visite n°".$rapportVisite->getId()
         ));
     }
 

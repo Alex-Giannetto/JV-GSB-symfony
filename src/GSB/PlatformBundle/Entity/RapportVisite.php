@@ -35,7 +35,6 @@ class RapportVisite
     private $medecin;
 
 
-
     /**
      * @var \DateTime
      *
