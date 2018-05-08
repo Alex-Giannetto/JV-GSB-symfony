@@ -24,4 +24,12 @@ gsb_platform_visites_delete:
     defaults: { _controller: GSBPlatformBundle:Default:deleteVisite }
 
 
+gsb_platform_admin_login:
+    path:     /login
+    defaults: { _controller: GSBPlatformBundle:Default:connect }
+
+gsb_platform_admin_logout:
+    path:     /logout
+    defaults: { _controller: GSBPlatformBundle:Default:disconnect }
+
   #    ToDo : requirements : id -> nombre

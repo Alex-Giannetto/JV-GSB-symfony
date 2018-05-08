@@ -1,5 +1,8 @@
 <?php
 
+// Les visiteurs représentes nos Utilisateurs
+
+
 namespace GSB\PlatformBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
@@ -48,6 +51,7 @@ class Visiteur
      * @ORM\Column(name="password", type="text")
      */
     private $password;
+
 
     /**
      * Get id
@@ -158,5 +162,15 @@ class Visiteur
     {
         return $this->password;
     }
-}
 
+    //TODO Supprimer le getPassword pour plus de sécu
+    /**
+     * Constructor
+     */
+    public function __construct()
+    {
+        $this->dirige = new \Doctrine\Common\Collections\ArrayCollection();
+    }
+
+
+}

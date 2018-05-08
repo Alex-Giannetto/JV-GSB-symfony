@@ -1,0 +1,27 @@
+{% extends "GSBPlatformBundle::layout.html.twig" %}
+
+{% block title %}
+    {{ parent() }}- Login
+{% endblock %}
+
+{% block nomPage %}
+    Connection
+{% endblock %}
+
+{% block card %}
+
+    {% if error is defined %}
+        {{ error }}
+    {% endif %}
+
+    <form method="post">
+        <input type="email" name="mail">
+        <input type="password" name="password">
+        <input type="submit">
+    </form>
+{% endblock %}
+
+
+
+
+

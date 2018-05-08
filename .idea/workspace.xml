@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="315ce050-6698-4974-af34-f766fdc0714c" name="Default" comment="Affichage    : 100%&#10;Suppression  : 100%&#10;Ajout        : 100%&#10;Modification : 100%">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/alexg78bis.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/GSB/PlatformBundle/Repository/MotifRepository.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/Admin/login.html.twig" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/views/base.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
       <change beforePath="$PROJECT_DIR$/src/GSB/PlatformBundle/Controller/DefaultController.php" afterPath="$PROJECT_DIR$/src/GSB/PlatformBundle/Controller/DefaultController.php" />
       <change beforePath="$PROJECT_DIR$/src/GSB/PlatformBundle/Entity/RapportVisite.php" afterPath="$PROJECT_DIR$/src/GSB/PlatformBundle/Entity/RapportVisite.php" />
+      <change beforePath="$PROJECT_DIR$/src/GSB/PlatformBundle/Entity/Visiteur.php" afterPath="$PROJECT_DIR$/src/GSB/PlatformBundle/Entity/Visiteur.php" />
       <change beforePath="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/config/routing.yml" afterPath="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/config/routing.yml" />
-      <change beforePath="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/Pages/addVisite.html.twig" afterPath="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/Pages/addVisite.html.twig" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php.meta" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php.meta" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml" />
@@ -20,68 +19,68 @@
       <change beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerUrlMatcher.php" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerUrlMatcher.php" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerUrlMatcher.php.meta" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerUrlMatcher.php.meta" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/doctrine/orm/Proxies/__CG__GSBPlatformBundleEntityMedicament.php" afterPath="$PROJECT_DIR$/var/cache/dev/doctrine/orm/Proxies/__CG__GSBPlatformBundleEntityMedicament.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/-/S/gWw0LKjtNtSeaFcb7KM9" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/-/S/gWw0LKjtNtSeaFcb7KM9" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/0/A/Fcl8UjIjV8WFTJnWPZD0" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/0/A/Fcl8UjIjV8WFTJnWPZD0" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/0/X/GVXY9jLu4WVNVQDcA+Uo" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/0/X/GVXY9jLu4WVNVQDcA+Uo" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/2/3/qDueb1sRA5W9kmc52fN5" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/2/3/qDueb1sRA5W9kmc52fN5" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/5/U/PJoS-k5zYSmVyKShGlm-" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/5/U/PJoS-k5zYSmVyKShGlm-" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/5/Z/TQ74DwAOSsbErQEaV4AV" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/5/Z/TQ74DwAOSsbErQEaV4AV" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/6/J/IMkBoYMjdX2Z4ZZv-O52" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/6/J/IMkBoYMjdX2Z4ZZv-O52" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/7/T/y7Zx1DD9xkqmm69SHFLY" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/7/T/y7Zx1DD9xkqmm69SHFLY" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/8/R/nb2+LxVdNJnPi9ibI8CB" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/8/R/nb2+LxVdNJnPi9ibI8CB" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/-/S/gWw0LKjtNtSeaFcb7KM9" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/0/A/Fcl8UjIjV8WFTJnWPZD0" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/0/X/GVXY9jLu4WVNVQDcA+Uo" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/2/3/qDueb1sRA5W9kmc52fN5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/5/U/PJoS-k5zYSmVyKShGlm-" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/5/Z/TQ74DwAOSsbErQEaV4AV" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/6/J/IMkBoYMjdX2Z4ZZv-O52" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/7/T/y7Zx1DD9xkqmm69SHFLY" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/8/R/nb2+LxVdNJnPi9ibI8CB" afterPath="" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/A/0/CCFQTkg3mymNfg8yECLp" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/A/G/FT+ony8rJq-uN9Neh0qq" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/A/G/FT+ony8rJq-uN9Neh0qq" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/A/Q/3rEOJYij7xXtwSJ9DqOe" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/A/Q/3rEOJYij7xXtwSJ9DqOe" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/A/W/pWowK1X+V-+JqrMMX7nx" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/A/W/pWowK1X+V-+JqrMMX7nx" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/C/N/t0GC1c8G2fe8T3S3Zall" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/C/N/t0GC1c8G2fe8T3S3Zall" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/D/D/tPDRBvcYW7kkwfAAgC0n" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/D/D/tPDRBvcYW7kkwfAAgC0n" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/D/H/DjmJrPlxNfPeCqzSbL6f" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/D/H/DjmJrPlxNfPeCqzSbL6f" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/E/H/eSWnf8V7uSKfroiTvt6-" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/E/H/eSWnf8V7uSKfroiTvt6-" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/F/I/GRWKH7-g8GCoiD8vjZc6" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/F/I/GRWKH7-g8GCoiD8vjZc6" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/F/L/zptAj4i-RBK0v80oZXZ6" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/F/L/zptAj4i-RBK0v80oZXZ6" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/G/M/1ez+fzCi-nbBAtghBFVa" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/G/M/1ez+fzCi-nbBAtghBFVa" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/G/V/6iHRKi9ZkQWJq5vIXT5d" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/G/V/6iHRKi9ZkQWJq5vIXT5d" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/H/-/YLKkA40R9hGfvE+TypGl" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/H/-/YLKkA40R9hGfvE+TypGl" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/H/A/OKwsmiaeWeXU29NcQ7X5" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/H/A/OKwsmiaeWeXU29NcQ7X5" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/H/J/y72dIil0Qq-V76cc88g3" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/H/J/y72dIil0Qq-V76cc88g3" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/I/5/chIHOx1o6+SLSW7cqiny" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/I/5/chIHOx1o6+SLSW7cqiny" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/I/7/iuYaVs5mFQ7rm+bDBTqf" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/I/7/iuYaVs5mFQ7rm+bDBTqf" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/J/E/84yxqyEYtP2w0pIN0VxZ" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/J/E/84yxqyEYtP2w0pIN0VxZ" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/J/S/TRv2Eupj1HWY74NqcJ23" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/J/S/TRv2Eupj1HWY74NqcJ23" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/J/S/wNV0JH-dMOk8kiCXgV9-" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/J/S/wNV0JH-dMOk8kiCXgV9-" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/L/7/RLdc6U4jaBeJrBNEEw34" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/L/7/RLdc6U4jaBeJrBNEEw34" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/A/G/FT+ony8rJq-uN9Neh0qq" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/A/Q/3rEOJYij7xXtwSJ9DqOe" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/A/W/pWowK1X+V-+JqrMMX7nx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/C/N/t0GC1c8G2fe8T3S3Zall" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/D/D/tPDRBvcYW7kkwfAAgC0n" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/D/H/DjmJrPlxNfPeCqzSbL6f" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/E/H/eSWnf8V7uSKfroiTvt6-" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/F/I/GRWKH7-g8GCoiD8vjZc6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/F/L/zptAj4i-RBK0v80oZXZ6" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/G/M/1ez+fzCi-nbBAtghBFVa" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/G/V/6iHRKi9ZkQWJq5vIXT5d" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/H/-/YLKkA40R9hGfvE+TypGl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/H/A/OKwsmiaeWeXU29NcQ7X5" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/H/J/y72dIil0Qq-V76cc88g3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/I/5/chIHOx1o6+SLSW7cqiny" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/I/7/iuYaVs5mFQ7rm+bDBTqf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/J/E/84yxqyEYtP2w0pIN0VxZ" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/J/S/TRv2Eupj1HWY74NqcJ23" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/J/S/wNV0JH-dMOk8kiCXgV9-" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/L/7/RLdc6U4jaBeJrBNEEw34" afterPath="" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/L/F/JNJF4RsPnApXN4PS2j4L" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/M/F/o0ypjG6G9xe9dFimGO02" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/M/F/o0ypjG6G9xe9dFimGO02" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/M/M/LxmN0zdnFMTx3Z4B0i3Z" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/M/M/LxmN0zdnFMTx3Z4B0i3Z" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/M/W/tKwQrMiflSp2FFPjlVsJ" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/M/W/tKwQrMiflSp2FFPjlVsJ" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/N/U/cB4mry8l8QmuAvszgaEU" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/N/U/cB4mry8l8QmuAvszgaEU" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/O/C/kk2eNsXNvqLNJlgjx8Lp" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/O/C/kk2eNsXNvqLNJlgjx8Lp" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/O/S/NIom65FTazzK8jbRDIJJ" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/O/S/NIom65FTazzK8jbRDIJJ" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/Q/+/Wfu9sUXtta1rYehCmhSz" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/Q/+/Wfu9sUXtta1rYehCmhSz" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/Q/W/4Qum0xMOblX1ETi3s5HC" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/Q/W/4Qum0xMOblX1ETi3s5HC" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/Q/Z/7CCqf9-1m0v4ILmjQWso" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/Q/Z/7CCqf9-1m0v4ILmjQWso" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/R/5/DodJ-OgO1Gn4EEOWKAWz" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/R/5/DodJ-OgO1Gn4EEOWKAWz" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/R/6/BnYFoNNsW8AId5gcvdJ2" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/R/6/BnYFoNNsW8AId5gcvdJ2" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/R/9/gO4L-OnOoflaS5r7I6QL" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/R/9/gO4L-OnOoflaS5r7I6QL" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/R/T/xCcbWBwP0dAIQ4wP4aD-" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/R/T/xCcbWBwP0dAIQ4wP4aD-" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/S/K/8YMYJkU6IbXK99i4aglw" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/S/K/8YMYJkU6IbXK99i4aglw" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/T/B/myyfxRlR2NIk96Abo6Ta" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/T/B/myyfxRlR2NIk96Abo6Ta" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/T/Y/eMF4ITBs9UiNmoWMvenq" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/T/Y/eMF4ITBs9UiNmoWMvenq" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/V/0/QxO2M+KkvHgv1JEB9qNB" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/V/0/QxO2M+KkvHgv1JEB9qNB" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/V/H/YJWVQKhE0QL+CSE-Rb7x" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/V/H/YJWVQKhE0QL+CSE-Rb7x" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/V/L/Wne1p1fboFyaoxX3mGlK" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/V/L/Wne1p1fboFyaoxX3mGlK" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/V/W/OJwX-3z+9+63CJPDw+6j" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/V/W/OJwX-3z+9+63CJPDw+6j" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/V/Y/vX4+wn8QBI4p4tG+ig5C" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/V/Y/vX4+wn8QBI4p4tG+ig5C" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/W/H/bWW7vVaXlGuXJosJMBYt" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/W/H/bWW7vVaXlGuXJosJMBYt" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/X/F/cEsIu34Rl94xTM38v6Xd" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/X/F/cEsIu34Rl94xTM38v6Xd" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/X/T/b+lBMrqZaWzJniS2Tik0" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/X/T/b+lBMrqZaWzJniS2Tik0" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/Y/+/7moJ9g9oSSl2VipherWD" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/Y/+/7moJ9g9oSSl2VipherWD" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/Y/A/YQY7m+Xuz0SWmmSb1dS0" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/Y/A/YQY7m+Xuz0SWmmSb1dS0" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/Z/A/A7-h4OllWwgBKblf8c-W" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/Z/A/A7-h4OllWwgBKblf8c-W" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/Z/H/8U7g05hGgqN83+BmCA6d" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/Z/H/8U7g05hGgqN83+BmCA6d" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/Z/Q/TRv1Ho+LsjbN0oJXW4XM" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/Z/Q/TRv1Ho+LsjbN0oJXW4XM" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/Z/T/6f63jYzqCall9-3TNJr9" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/Z/T/6f63jYzqCall9-3TNJr9" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/Z/W/rdy7uPRgWbOWH9kC65EO" afterPath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/Z/W/rdy7uPRgWbOWH9kC65EO" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/M/F/o0ypjG6G9xe9dFimGO02" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/M/M/LxmN0zdnFMTx3Z4B0i3Z" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/M/W/tKwQrMiflSp2FFPjlVsJ" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/N/U/cB4mry8l8QmuAvszgaEU" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/O/C/kk2eNsXNvqLNJlgjx8Lp" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/O/S/NIom65FTazzK8jbRDIJJ" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/Q/+/Wfu9sUXtta1rYehCmhSz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/Q/W/4Qum0xMOblX1ETi3s5HC" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/Q/Z/7CCqf9-1m0v4ILmjQWso" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/R/5/DodJ-OgO1Gn4EEOWKAWz" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/R/6/BnYFoNNsW8AId5gcvdJ2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/R/9/gO4L-OnOoflaS5r7I6QL" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/R/T/xCcbWBwP0dAIQ4wP4aD-" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/S/K/8YMYJkU6IbXK99i4aglw" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/T/B/myyfxRlR2NIk96Abo6Ta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/T/Y/eMF4ITBs9UiNmoWMvenq" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/V/0/QxO2M+KkvHgv1JEB9qNB" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/V/H/YJWVQKhE0QL+CSE-Rb7x" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/V/L/Wne1p1fboFyaoxX3mGlK" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/V/W/OJwX-3z+9+63CJPDw+6j" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/V/Y/vX4+wn8QBI4p4tG+ig5C" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/W/H/bWW7vVaXlGuXJosJMBYt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/X/F/cEsIu34Rl94xTM38v6Xd" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/X/T/b+lBMrqZaWzJniS2Tik0" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/Y/+/7moJ9g9oSSl2VipherWD" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/Y/A/YQY7m+Xuz0SWmmSb1dS0" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/Z/A/A7-h4OllWwgBKblf8c-W" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/Z/H/8U7g05hGgqN83+BmCA6d" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/Z/Q/TRv1Ho+LsjbN0oJXW4XM" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/Z/T/6f63jYzqCall9-3TNJr9" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/dKLcZ0jHoz/Z/W/rdy7uPRgWbOWH9kC65EO" afterPath="" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/xU72AIGt8H/+/0/tO-wdED8vwa3tPnNWKV4" afterPath="" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/xU72AIGt8H/+/E/NAIChMuyCIrd6G6FXMn5" afterPath="" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/xU72AIGt8H/+/P/4esTvhxVEAyVRPtREf07" afterPath="" />
@@ -873,12 +872,12 @@
       <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/32/32495d94349b26435f31cb24778d7262771ed5656f9b1345b47dd4880236a6d4.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/32/32495d94349b26435f31cb24778d7262771ed5656f9b1345b47dd4880236a6d4.php" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/39/39698f928dfc8fcb9b526c3c1b5d64a452dbce048975a40051058292c105261f.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/39/39698f928dfc8fcb9b526c3c1b5d64a452dbce048975a40051058292c105261f.php" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/39/39cecf83cea58b742a2a6b9006bcf8ec2a35b0ffda99c9c910d8d7e956b1b923.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/39/39cecf83cea58b742a2a6b9006bcf8ec2a35b0ffda99c9c910d8d7e956b1b923.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/3c/3c19966c6d038fb0e6b250ad1991e1eabbf26dbdfcde829880600bea7921616a.php" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/42/42b2bd68ebaca5906d9287a4d5a4f0a2c6c56516a0f2546d55957567e5af6a0e.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/42/42b2bd68ebaca5906d9287a4d5a4f0a2c6c56516a0f2546d55957567e5af6a0e.php" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/3c/3c19966c6d038fb0e6b250ad1991e1eabbf26dbdfcde829880600bea7921616a.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/3c/3c19966c6d038fb0e6b250ad1991e1eabbf26dbdfcde829880600bea7921616a.php" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/42/42b2bd68ebaca5906d9287a4d5a4f0a2c6c56516a0f2546d55957567e5af6a0e.php" afterPath="" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/43/431013d832dc194c37f449a463c2a83e3e96be1e30de72a085f5c16136fd98b9.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/43/431013d832dc194c37f449a463c2a83e3e96be1e30de72a085f5c16136fd98b9.php" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/47/47f1c221dcedcfe607a16a484f8b43f1b001e632710941989f95214ac454f488.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/47/47f1c221dcedcfe607a16a484f8b43f1b001e632710941989f95214ac454f488.php" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/48/484b19582fdeac645f74894a2c733b2ff4700d0461c5b09dc7089936e9fdf078.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/48/484b19582fdeac645f74894a2c733b2ff4700d0461c5b09dc7089936e9fdf078.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/48/486c11eff0de69feff7af116986a17d04e69db58c0c315f08aec789c59997722.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/48/486c11eff0de69feff7af116986a17d04e69db58c0c315f08aec789c59997722.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/48/486c11eff0de69feff7af116986a17d04e69db58c0c315f08aec789c59997722.php" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/4d/4dd4c39a5f398ce11d6e903717c3bd41eed6f31a8f426253e57d6ede4e580aaf.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/4d/4dd4c39a5f398ce11d6e903717c3bd41eed6f31a8f426253e57d6ede4e580aaf.php" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/4e/4ec93cebe34367961764588a5909a34697cf60bda3b456d757c051d3914a91e5.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/4e/4ec93cebe34367961764588a5909a34697cf60bda3b456d757c051d3914a91e5.php" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/51/51120f5c5b9865b61c699a3d78c3f904b38bd0dbe3c14d56a104d5c5a0e122d2.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/51/51120f5c5b9865b61c699a3d78c3f904b38bd0dbe3c14d56a104d5c5a0e122d2.php" />
@@ -890,7 +889,7 @@
       <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/59/5923c85be7d48f0637eab291c6f099c9e6bc08f0020ff8e4ea823ec9ce714b7b.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/59/5923c85be7d48f0637eab291c6f099c9e6bc08f0020ff8e4ea823ec9ce714b7b.php" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/5a/5a5310fe789052e0f8747c2471e684595ea7dff6a12076af19493015527fc99b.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/5a/5a5310fe789052e0f8747c2471e684595ea7dff6a12076af19493015527fc99b.php" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/5b/5b5dd91ecdd95740fd280681f3bb848550aac971e8d640f6d4656f9c9b3ff117.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/5b/5b5dd91ecdd95740fd280681f3bb848550aac971e8d640f6d4656f9c9b3ff117.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/5c/5c8c3835b053f54a10a39880b047cb5dba1f8366c12f8ef40b3be5637bfb5213.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/5c/5c8c3835b053f54a10a39880b047cb5dba1f8366c12f8ef40b3be5637bfb5213.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/5c/5c8c3835b053f54a10a39880b047cb5dba1f8366c12f8ef40b3be5637bfb5213.php" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/60/6032d2b735f8f60dfc5eb5929a8cd6c97aa70bcfdc40d9d49d28f5a060883124.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/60/6032d2b735f8f60dfc5eb5929a8cd6c97aa70bcfdc40d9d49d28f5a060883124.php" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/63/63dff12f413289eeb856318eb7eeff447457f5685bd183c23deeda11da44d9fd.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/63/63dff12f413289eeb856318eb7eeff447457f5685bd183c23deeda11da44d9fd.php" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/69/691a3975ec79267d0ff6e16f8e7ae3f5c9b794c86bc188f82ed7f4e60ae39ed0.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/69/691a3975ec79267d0ff6e16f8e7ae3f5c9b794c86bc188f82ed7f4e60ae39ed0.php" />
@@ -905,18 +904,18 @@
       <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/82/82a5d6e040b6ca5f0297054483bb73ee8ce76133c489d6e1911ccfcf95898322.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/82/82a5d6e040b6ca5f0297054483bb73ee8ce76133c489d6e1911ccfcf95898322.php" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/83/8324d4e91371d08d063927dba0ddcbc5b877d30acbc09a327cb4c6b8bad26f17.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/83/8324d4e91371d08d063927dba0ddcbc5b877d30acbc09a327cb4c6b8bad26f17.php" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/84/840e550b9aca5a7eccfd9d541a837bed9ca177874c65aee0d33625c12502a5bd.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/84/840e550b9aca5a7eccfd9d541a837bed9ca177874c65aee0d33625c12502a5bd.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/87/8791afdd0c21d5817cbc72e68cbbc8ba73ee1910dceb73f1ebf5929e47a9c1c7.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/87/8791afdd0c21d5817cbc72e68cbbc8ba73ee1910dceb73f1ebf5929e47a9c1c7.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/87/8791afdd0c21d5817cbc72e68cbbc8ba73ee1910dceb73f1ebf5929e47a9c1c7.php" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/8b/8b9dc55152e9c52c2b736901c7b505a2d60223fdc0669a3171ea049d36de7a1e.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/8b/8b9dc55152e9c52c2b736901c7b505a2d60223fdc0669a3171ea049d36de7a1e.php" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/8e/8ee0c1827128ac03a775a602d8f856d5280f066a22190aa40392e3c541f5b738.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/8e/8ee0c1827128ac03a775a602d8f856d5280f066a22190aa40392e3c541f5b738.php" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/8f/8f681b40774c208f5459f3cb4f0b8dd40525546c264e01808596e56d34bbe190.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/8f/8f681b40774c208f5459f3cb4f0b8dd40525546c264e01808596e56d34bbe190.php" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/8f/8f9b3b9b5bf89d589b13be9eb0a0fae6b6dfb7f1680e6055c5095e9422fc33a5.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/8f/8f9b3b9b5bf89d589b13be9eb0a0fae6b6dfb7f1680e6055c5095e9422fc33a5.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/91/9198a1f4243066299740c11e74bfb7050b3f9c48ff26b41adfba8d9c120a7dee.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/91/9198a1f4243066299740c11e74bfb7050b3f9c48ff26b41adfba8d9c120a7dee.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/91/9198a1f4243066299740c11e74bfb7050b3f9c48ff26b41adfba8d9c120a7dee.php" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/95/952e77d7d830480906693ccf8107c8aacc87ecfe29de6811d78a8f9e1ab86913.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/95/952e77d7d830480906693ccf8107c8aacc87ecfe29de6811d78a8f9e1ab86913.php" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/98/9813eeab1ffea0618e1fe21aa51bae1da54a3fe419ebcfc32692287ac9027d99.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/98/9813eeab1ffea0618e1fe21aa51bae1da54a3fe419ebcfc32692287ac9027d99.php" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/9b/9b33a8000d20b110ee1da7c717860851215ed4588c5e112d2334b579267fb618.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/9b/9b33a8000d20b110ee1da7c717860851215ed4588c5e112d2334b579267fb618.php" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/9b/9b6ec2037a271283dee28a6a1ecc95a81882fdf672dbf1a5b015b05f13a86308.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/9b/9b6ec2037a271283dee28a6a1ecc95a81882fdf672dbf1a5b015b05f13a86308.php" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/9b/9ba6681f0286359de424116b9caf1504187d827bad7fe778d2d9f7f21d21aec9.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/9b/9ba6681f0286359de424116b9caf1504187d827bad7fe778d2d9f7f21d21aec9.php" />
-      <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/9d/9d1345d1e3b38dfcc19faa10907addbed3d3ce59221b9772b1643c451873216e.php" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/9d/9d1345d1e3b38dfcc19faa10907addbed3d3ce59221b9772b1643c451873216e.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/9d/9d1345d1e3b38dfcc19faa10907addbed3d3ce59221b9772b1643c451873216e.php" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/9d/9d78ac568df8affa54ea408e0b5aec2f4bde964026d7223fe1d0d50c427a89d1.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/9d/9d78ac568df8affa54ea408e0b5aec2f4bde964026d7223fe1d0d50c427a89d1.php" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/a2/a275e4713d5425965552f8fe7f7d0979b0af92b7164f84d4de9939113844c713.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/a2/a275e4713d5425965552f8fe7f7d0979b0af92b7164f84d4de9939113844c713.php" />
       <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/a3/a3f58d25e908d80c86f964dd2ea8f44dfb6a3d1219e78e4755dbd81ae10b7146.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/a3/a3f58d25e908d80c86f964dd2ea8f44dfb6a3d1219e78e4755dbd81ae10b7146.php" />
@@ -967,7 +966,41 @@
     <favorites_list name="GSB_SymfonyAlex" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DefaultController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Controller/DefaultController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="447">
+              <caret line="110" column="0" lean-forward="true" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+              <folding>
+                <element signature="e#49#93#0#PHP" expanded="true" />
+                <element signature="e#804#916#0#PHP" expanded="false" />
+                <element signature="e#863#915#0#PHP" expanded="false" />
+                <element signature="e#1168#1280#0#PHP" expanded="false" />
+                <element signature="e#1229#1279#0#PHP" expanded="false" />
+                <element signature="e#1500#1940#0#PHP" expanded="false" />
+                <element signature="e#1958#2123#0#PHP" expanded="false" />
+                <element signature="e#2019#2122#0#PHP" expanded="false" />
+                <element signature="e#2225#2335#0#PHP" expanded="false" />
+                <element signature="e#2225#2359#0#PHP" expanded="false" />
+                <element signature="e#2465#2910#0#PHP" expanded="false" />
+                <element signature="e#2779#2899#0#PHP" expanded="false" />
+                <element signature="e#2830#2898#0#PHP" expanded="false" />
+                <element signature="e#2927#3117#0#PHP" expanded="false" />
+                <element signature="e#2988#3116#0#PHP" expanded="false" />
+                <element signature="e#3342#3474#0#PHP" expanded="false" />
+                <element signature="e#3872#4924#0#PHP" expanded="false" />
+                <element signature="e#4048#4190#0#PHP" expanded="false" />
+                <element signature="e#4505#4703#0#PHP" expanded="false" />
+                <element signature="e#4541#4684#0#PHP" expanded="false" />
+                <element signature="e#4598#4683#0#PHP" expanded="false" />
+                <element signature="e#4930#5071#0#PHP" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -1012,8 +1045,6 @@
         <option value="$PROJECT_DIR$/web/sass/main.sass" />
         <option value="$PROJECT_DIR$/web/sass/partials/header.sass" />
         <option value="$PROJECT_DIR$/web/sass/partials/visites.sass" />
-        <option value="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
-        <option value="$PROJECT_DIR$/src/GSB/PlatformBundle/Entity/Visiteur.php" />
         <option value="$PROJECT_DIR$/src/GSB/PlatformBundle/Form/EchantillonType.php" />
         <option value="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/Pages/visites.html.twig" />
         <option value="$PROJECT_DIR$/src/GSB/PlatformBundle/Entity/Medicament.php" />
@@ -1023,11 +1054,15 @@
         <option value="$PROJECT_DIR$/src/GSB/PlatformBundle/Form/RapportVisiteType.php" />
         <option value="$PROJECT_DIR$/web/sass/partials/inputs.sass" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/config/routing.yml" />
         <option value="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/Pages/oneVisite.html.twig" />
         <option value="$PROJECT_DIR$/src/GSB/PlatformBundle/Entity/Motif.php" />
-        <option value="$PROJECT_DIR$/src/GSB/PlatformBundle/Entity/RapportVisite.php" />
         <option value="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/Pages/addVisite.html.twig" />
+        <option value="$PROJECT_DIR$/src/GSB/PlatformBundle/Entity/VisiteurManager.php" />
+        <option value="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/Admin/login.html.twig" />
+        <option value="$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/config/routing.yml" />
+        <option value="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
+        <option value="$PROJECT_DIR$/src/GSB/PlatformBundle/Entity/RapportVisite.php" />
+        <option value="$PROJECT_DIR$/src/GSB/PlatformBundle/Entity/Visiteur.php" />
         <option value="$PROJECT_DIR$/src/GSB/PlatformBundle/Controller/DefaultController.php" />
       </list>
     </option>
@@ -1086,7 +1121,9 @@
       <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
+    <option name="x" value="90" />
+    <option name="y" value="83" />
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
@@ -1132,62 +1169,80 @@
         <subPane>
           <expand>
             <path>
-              <item name="GSB_Symfony" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_Symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="symfony" type="b2602c69:ProjectViewProjectNode" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="GSB_Symfony" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_Symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="symfony" type="b2602c69:ProjectViewProjectNode" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="symfony" type="b2602c69:ProjectViewProjectNode" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="symfony" type="b2602c69:ProjectViewProjectNode" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="symfony" type="b2602c69:ProjectViewProjectNode" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="default" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="symfony" type="b2602c69:ProjectViewProjectNode" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="GSB_Symfony" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_Symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="symfony" type="b2602c69:ProjectViewProjectNode" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="GSB" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="GSB_Symfony" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_Symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="symfony" type="b2602c69:ProjectViewProjectNode" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="GSB" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="PlatformBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="GSB_Symfony" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_Symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="symfony" type="b2602c69:ProjectViewProjectNode" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="GSB" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="PlatformBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Controller" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="GSB_Symfony" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_Symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="symfony" type="b2602c69:ProjectViewProjectNode" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="GSB" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="PlatformBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Entity" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="GSB_Symfony" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_Symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="GSB" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="PlatformBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Repository" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="GSB_Symfony" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_Symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="symfony" type="b2602c69:ProjectViewProjectNode" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="GSB" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="PlatformBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="GSB_Symfony" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_Symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="symfony" type="b2602c69:ProjectViewProjectNode" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="GSB" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="PlatformBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
@@ -1195,8 +1250,8 @@
               <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="GSB_Symfony" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_Symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="symfony" type="b2602c69:ProjectViewProjectNode" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="GSB" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="PlatformBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
@@ -1204,14 +1259,42 @@
               <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
-              <item name="GSB_Symfony" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GSB_Symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="symfony" type="b2602c69:ProjectViewProjectNode" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="GSB" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="PlatformBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="symfony" type="b2602c69:ProjectViewProjectNode" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="GSB" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="PlatformBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="Pages" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="symfony" type="b2602c69:ProjectViewProjectNode" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="symfony" type="b2602c69:ProjectViewProjectNode" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sass" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="symfony" type="b2602c69:ProjectViewProjectNode" />
+              <item name="symfony" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sass" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -1288,6 +1371,10 @@
       <workItem from="1522737982396" duration="3932000" />
       <workItem from="1522768695198" duration="6282000" />
       <workItem from="1523431477528" duration="2354000" />
+      <workItem from="1523905316205" duration="4371000" />
+      <workItem from="1524484522443" duration="23000" />
+      <workItem from="1524504336374" duration="5166000" />
+      <workItem from="1525812978800" duration="782000" />
     </task>
     <task id="LOCAL-00001" summary="création bundle">
       <created>1520866971051</created>
@@ -1363,7 +1450,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104269000" />
+    <option name="totallyTimeSpent" value="114611000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1375,18 +1462,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <frame x="90" y="83" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20238096" sideWeight="0.78640777" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.303125" sideWeight="0.78640777" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291262" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291262" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291262" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.712" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15247253" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1546875" sideWeight="0.21359223" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1396,6 +1483,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291262" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291262" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1427,20 +1515,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/Default/index.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/layout.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -1485,13 +1559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/default/index.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1581,24 +1648,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/Pages/visites.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="30" column="16" lean-forward="false" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="51" lean-forward="false" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
         </state>
       </provider>
     </entry>
@@ -1656,52 +1709,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Entity/Visiteur.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding>
-            <element signature="e#79#215#0#PHP" expanded="false" />
-            <element signature="e#237#376#0#PHP" expanded="false" />
-            <element signature="e#399#494#0#PHP" expanded="false" />
-            <element signature="e#518#616#0#PHP" expanded="false" />
-            <element signature="e#643#739#0#PHP" expanded="false" />
-            <element signature="e#764#850#0#PHP" expanded="false" />
-            <element signature="e#879#930#0#PHP" expanded="false" />
-            <element signature="e#935#996#0#PHP" expanded="false" />
-            <element signature="e#1066#1156#0#PHP" expanded="false" />
-            <element signature="e#1161#1251#0#PHP" expanded="false" />
-            <element signature="e#1257#1312#0#PHP" expanded="false" />
-            <element signature="e#1317#1380#0#PHP" expanded="false" />
-            <element signature="e#1386#1482#0#PHP" expanded="false" />
-            <element signature="e#1487#1589#0#PHP" expanded="false" />
-            <element signature="e#1595#1653#0#PHP" expanded="false" />
-            <element signature="e#1658#1727#0#PHP" expanded="false" />
-            <element signature="e#1733#1825#0#PHP" expanded="false" />
-            <element signature="e#1830#1924#0#PHP" expanded="false" />
-            <element signature="e#1930#1986#0#PHP" expanded="false" />
-            <element signature="e#1991#2056#0#PHP" expanded="false" />
-            <element signature="e#2062#2162#0#PHP" expanded="false" />
-            <element signature="e#2167#2277#0#PHP" expanded="false" />
-            <element signature="e#2283#2343#0#PHP" expanded="false" />
-            <element signature="e#2348#2421#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Form/RapportVisiteType.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="620">
           <caret line="40" column="40" lean-forward="false" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/sass/partials/inputs.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1580">
-          <caret line="79" column="13" lean-forward="false" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1709,7 +1720,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1725,7 +1735,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1737,14 +1746,74 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/Pages/oneVisite.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="15" column="93" lean-forward="false" selection-start-line="15" selection-start-column="93" selection-end-line="15" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Entity/VisiteurManager.php" />
+    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/Pages/addVisite.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="34" column="18" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Entity/Medicament.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/Pages/visites.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" column="16" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="20" column="67" lean-forward="false" selection-start-line="20" selection-start-column="67" selection-end-line="20" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/Admin/login.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/sass/partials/inputs.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="26" column="2" lean-forward="false" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Entity/RapportVisite.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        <state relative-caret-position="323">
+          <caret line="71" column="3" lean-forward="false" selection-start-line="71" selection-start-column="3" selection-end-line="71" selection-end-column="37" />
           <folding>
             <element signature="e#128#280#0#PHP" expanded="false" />
             <element signature="e#307#446#0#PHP" expanded="false" />
-            <element signature="e#469#591#0#PHP" expanded="false" />
             <element signature="e#1335#1460#0#PHP" expanded="false" />
             <element signature="e#1648#1755#0#PHP" expanded="false" />
             <element signature="e#1790#1929#0#PHP" expanded="false" />
@@ -1792,55 +1861,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Entity/Medicament.php">
+    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Entity/Visiteur.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1960">
-          <caret line="98" column="29" lean-forward="false" selection-start-line="98" selection-start-column="29" selection-end-line="98" selection-end-column="29" />
-          <folding />
+        <state relative-caret-position="829">
+          <caret line="169" column="23" lean-forward="false" selection-start-line="169" selection-start-column="23" selection-end-line="169" selection-end-column="23" />
+          <folding>
+            <element signature="e#285#424#0#PHP" expanded="false" />
+            <element signature="e#447#542#0#PHP" expanded="false" />
+            <element signature="e#566#664#0#PHP" expanded="false" />
+            <element signature="e#691#787#0#PHP" expanded="false" />
+            <element signature="e#812#898#0#PHP" expanded="false" />
+            <element signature="e#928#979#0#PHP" expanded="false" />
+            <element signature="e#984#1045#0#PHP" expanded="false" />
+            <element signature="e#1051#1109#0#PHP" expanded="false" />
+            <element signature="e#1115#1205#0#PHP" expanded="false" />
+            <element signature="e#1210#1300#0#PHP" expanded="false" />
+            <element signature="e#1306#1361#0#PHP" expanded="false" />
+            <element signature="e#1366#1429#0#PHP" expanded="false" />
+            <element signature="e#1435#1531#0#PHP" expanded="false" />
+            <element signature="e#1536#1638#0#PHP" expanded="false" />
+            <element signature="e#1644#1702#0#PHP" expanded="false" />
+            <element signature="e#1707#1776#0#PHP" expanded="false" />
+            <element signature="e#1782#1874#0#PHP" expanded="false" />
+            <element signature="e#1879#1973#0#PHP" expanded="false" />
+            <element signature="e#1979#2035#0#PHP" expanded="false" />
+            <element signature="e#2040#2105#0#PHP" expanded="false" />
+            <element signature="e#2111#2211#0#PHP" expanded="false" />
+            <element signature="e#2216#2326#0#PHP" expanded="false" />
+            <element signature="e#2332#2392#0#PHP" expanded="false" />
+            <element signature="e#2397#2470#0#PHP" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/config/routing.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/Pages/oneVisite.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="15" column="93" lean-forward="false" selection-start-line="15" selection-start-column="93" selection-end-line="15" selection-end-column="93" />
+        <state relative-caret-position="359">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Controller/DefaultController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="85" column="25" lean-forward="true" selection-start-line="85" selection-start-column="25" selection-end-line="85" selection-end-column="25" />
+        <state relative-caret-position="447">
+          <caret line="110" column="0" lean-forward="true" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
           <folding>
-            <element signature="e#459#595#0#PHP" expanded="false" />
-            <element signature="e#511#588#0#PHP" expanded="false" />
-            <element signature="e#570#587#0#PHP" expanded="false" />
-            <element signature="e#601#952#0#PHP" expanded="false" />
-            <element signature="e#833#945#0#PHP" expanded="false" />
-            <element signature="e#892#944#0#PHP" expanded="false" />
-            <element signature="e#958#1314#0#PHP" expanded="false" />
-            <element signature="e#1195#1307#0#PHP" expanded="false" />
-            <element signature="e#1256#1306#0#PHP" expanded="false" />
-            <element signature="e#3080#3821#0#PHP" expanded="false" />
-            <element signature="e#3290#3418#0#PHP" expanded="false" />
+            <element signature="e#49#93#0#PHP" expanded="true" />
+            <element signature="e#804#916#0#PHP" expanded="false" />
+            <element signature="e#863#915#0#PHP" expanded="false" />
+            <element signature="e#1168#1280#0#PHP" expanded="false" />
+            <element signature="e#1229#1279#0#PHP" expanded="false" />
+            <element signature="e#1500#1940#0#PHP" expanded="false" />
+            <element signature="e#1958#2123#0#PHP" expanded="false" />
+            <element signature="e#2019#2122#0#PHP" expanded="false" />
+            <element signature="e#2225#2335#0#PHP" expanded="false" />
+            <element signature="e#2225#2359#0#PHP" expanded="false" />
+            <element signature="e#2465#2910#0#PHP" expanded="false" />
+            <element signature="e#2779#2899#0#PHP" expanded="false" />
+            <element signature="e#2830#2898#0#PHP" expanded="false" />
+            <element signature="e#2927#3117#0#PHP" expanded="false" />
+            <element signature="e#2988#3116#0#PHP" expanded="false" />
+            <element signature="e#3342#3474#0#PHP" expanded="false" />
+            <element signature="e#3872#4924#0#PHP" expanded="false" />
+            <element signature="e#4048#4190#0#PHP" expanded="false" />
+            <element signature="e#4505#4703#0#PHP" expanded="false" />
+            <element signature="e#4541#4684#0#PHP" expanded="false" />
+            <element signature="e#4598#4683#0#PHP" expanded="false" />
+            <element signature="e#4930#5071#0#PHP" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GSB/PlatformBundle/Resources/views/Pages/addVisite.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="34" column="18" lean-forward="true" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
